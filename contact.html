@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!-- Document Title -->
+    <title>VORTEX GAMING</title>
+    <!-- Used to link the css file to this page -->
+    <link
+      rel="stylesheet"
+      href="/assets/css/style.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <!-- Header of the page containing the logo and document title -->
+    <header>
+      <!-- Div containing the logo/image -->
+      <div class="image">
+        <a
+          href="/index.html"
+          class="logotext"
+        >
+          <img
+            src="/assets/img/Logo.png"
+            alt="Vortex Gaming Logo"
+            id="logo"
+          />
+        </a>
+      </div>
+
+      <!-- Div containing the website's name/document's title -->
+      <div class="logotext">
+        <a
+          href="/index.html"
+          class="logotext"
+          ><h1>Vortex Gaming</h1></a
+        >
+      </div>
+    </header>
+
+    <!-- Navigation bar -->
+    <nav>
+      <!-- Link to the home page -->
+      <a href="/index.html"
+        >Home</a
+      >
+
+      <!-- Part of the navigation bar that drops down to display hidden links -->
+      <div class="dropdown">
+        <div class="dropdownbtn">
+          <a>Games <i class="fa fa-caret-down"></i></a>
+        </div>
+
+        <!-- Links to the 2 different game pages -->
+        <div class="dropdown-content">
+          <a
+            href="/cod.html"
+            id="COD"
+            >CALL OF DUTY</a
+          >
+          <a
+            href="/fifa.html"
+            id="FIFA"
+            >FIFA</a
+          >
+        </div>
+      </div>
+
+      <!-- Link to the contact page -->
+      <a href="/contact.html"
+        >Contact Us</a
+      >
+    </nav>
+
+    <div class="body">
+      <div class="Contact">
+        <h2 class="heading">Contact Section</h2>
+        <!-- Form used by the user to contact the website -->
+        <form>
+          <fieldset>
+            <legend>Contact Us</legend>
+
+            <br />
+
+            <label for="firstName">Name: </label>
+            <input
+              type="text"
+              name="First Name"
+              id="first-name-contact"
+              placeholder="Enter Your Name"
+              required
+            />
+
+            <br />
+            <br />
+
+            <label for="email">Email Address: </label>
+            <input
+              type="text"
+              name="Email"
+              id="email-contact"
+              placeholder="example@gmail.com"
+              required
+            />
+
+            <br />
+            <br />
+            <label for="phone">Phone Number: </label>
+            <input
+              type="text"
+              name="Phone"
+              id="phone-contact"
+              placeholder="021 123 4567"
+              required
+            />
+
+            <br />
+            <br />
+
+            <input id="contact-btn" type="submit" value="Submit" />
+          </fieldset>
+        </form>
+      </div>
+    </div>
+
+    <br />
+
+    <!-- Footer of the page -->
+    <footer>VORTEX GAMING &copy; 2019</footer>
+
+    <!-- Links javascript files to this page -->
+    <script src="https://kit.fontawesome.com/d32396bb69.js"></script>
+    <script src="/assets/js/main.js"></script>
+  </body>
+</html>

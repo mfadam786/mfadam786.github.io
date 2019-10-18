@@ -1,0 +1,41 @@
+[
+    {
+        "image": "/assets/img/FIFA/FIFA-16.jpg",
+        "name": "FIFA - 16",
+        "console":  ["PS3", "PS4", "XBOX 360" ,"XBOX ONE", "Windows", "iOS"],
+        "date": "22 September 2015",
+        "price" : "$7.97"
+    }
+,
+    {
+        "image" : "/assets/img/FIFA/FIFA-17.jpeg",
+        "name": "FIFA - 17",
+        "console":  ["PS3", "PS4", "XBOX 360" ,"XBOX ONE", "", ""],
+        "date": "27 September 2016",
+        "price": "$12.46"
+    }
+,
+    {
+        "image" : "/assets/img/FIFA/FIFA-18.jpg",
+        "name": "FIFA - 18",
+        "console":  ["PS3", "PS4", "XBOX 360" ,"XBOX ONE", "Windows", "Nintendo Switch"],
+        "date": "29 September 2017",
+        "price": "$14.98"
+    }
+,
+    {
+        "image" : "/assets/img/FIFA/FIFA-19.jpg",
+        "name": "FIFA - 19",
+        "console":  ["PS3", "PS4", "XBOX 360" ,"XBOX ONE", "Windows", "Nintendo Switch"],
+        "date": "28 September 2018",
+        "price": "$79.99"
+    }
+,
+    {
+        "image": "/assets/img/FIFA/FIFA-20.jpg",
+        "name": "FIFA - 20",
+        "console":  ["", "PS4", "" ,"XBOX ONE", "Windows", "Nintendo Switch"],
+        "date": "24 September 2019",
+        "price"  : "$109.99"
+    }
+]

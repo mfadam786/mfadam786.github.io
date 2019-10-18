@@ -1,0 +1,42 @@
+[
+    {
+        "image": "/assets/img/COD/COD-BO1.png",
+        "name": "Call of Duty - Black Ops",
+        "console":  ["PS3", "Nintendo", "XBOX 360" ,"XBOX ONE", "Wii", "MAC OS"],
+        "date": "9 November 2010",
+        "price" : "$31.40"
+    }
+,
+    {
+        "image" : "/assets/img/COD/COD-BO2.jpg",
+        "name": "Call of Duty - Black Ops 2",
+        "console":  ["PS3", "", "XBOX 360" ,"XBOX ONE", "", "Wii"],
+        "date": "12 November 2012",
+        "price": "$27.20"
+    }
+,
+    {
+        "image" : "/assets/img/COD/COD-BO3.png",
+        "name": "Call of Duty - Black Ops 3",
+        "console":  ["PS3", "PS4", "XBOX 360" ,"XBOX ONE", "Windows", "MAC OS"],
+        "date": "6 November 2015",
+        "price": "$35.98"
+    }
+,
+    {
+        "image" : "/assets/img/COD/COD-BO4.png",
+        "name": "Call of Duty - Black Ops 4",
+        "console":  ["", "PS4", "" ,"XBOX ONE", "Windows", ""],
+        "date": "12 October 2018",
+        "price": "$39.51"
+    }
+,
+
+    {
+        "image": "/assets/img/COD/COD-InfiniteWarfare.jpg",
+        "name": "Call of Duty",
+        "console":  ["", "PS4", "" ,"XBOX ONE", "", ""],
+        "date": "4 November 2016",
+        "price"  : "$119.99"
+    }
+]

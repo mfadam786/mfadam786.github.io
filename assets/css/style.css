@@ -1,0 +1,359 @@
+* 
+{
+    box-sizing: border-box;
+}
+
+/* Sets the font to be used in body of the pages and the margin to begin at */
+body
+{
+    margin: 0px;
+    font-family: 'Saira Stencil One', cursive;
+}
+
+/* Styles the header of each page */
+header
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 162, 255);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Styling for each page's header text */
+.logotext
+{
+    flex: 60%;
+    padding-top: 46px;
+    font-size: 30px;
+    color: rgb(0, 162, 255);
+    text-decoration: none;
+}
+
+/* Specifies the space that the logo/image has to display in */
+.image
+{
+    flex: 40%; 
+    padding: 10px;
+}
+
+/* Styling for each page's logo/image */
+#logo
+{
+    width: 246px;
+    height: 246px;
+    float: right;
+}
+
+/* Styling for the navigation bar */
+nav
+{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    justify-content: center;
+}
+
+/* Styling for the navigation bar's a elements */
+nav a
+{
+    color: rgb(21, 255, 0);
+    text-decoration: none;
+    padding: 20px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Styling for the navigation bar when the mouse hovers over it */
+nav :hover
+{
+    color: rgb(8, 4, 255);
+}
+
+/* The dropdown container */
+.dropdown 
+{
+    float: left;
+    overflow: hidden;
+}
+
+/* Used to style the div which is used for the dropdown */
+.dropdownbtn
+{
+  font-size: xx-large;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: none;
+  outline: none;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  width: 252px;
+  background-color: inherit;
+  font-family: 'Times New Roman', Times, serif; /* For vertical align on smaller screens */
+  margin: 0; /* For vertical align on smaller screens */
+}
+
+/* Div containing the links that are hidden by default */
+.dropdown-content 
+{
+    display: none;
+    position: absolute;
+    background-color: #000000;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  
+/* Links within the nav bar option which drops down */
+.dropdown-content a 
+{
+float: none;
+color: rgb(21, 255, 0);
+padding: 12px;
+text-decoration: none;
+display: block;
+text-align: center;
+}
+
+/* Changes background colour of the navigation bar's option on hover */
+.dropdown-content a:hover 
+{
+color: rgb(8, 4, 255);
+}
+
+/* Displays the dropdown options on hover over the navigation bar option */
+.dropdown:hover .dropdown-content {
+display: block;
+}
+
+/* Used to align each pages heading text */
+.heading
+{
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+}
+
+/* Styling for the images within the game pages */
+#itemImage
+{
+    width: 246px;
+    height: 246px;
+    float: center;
+}
+/* Styling for the table within the game pages */
+#itemsTable
+{
+    padding: 5px;
+    text-align: center;
+    border: 1px solid black;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.Table
+{
+    padding: 5px;
+    text-align: center;
+    border: 1px solid black;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.tbody
+{
+    padding: 5px;
+    text-align: center;
+    border: 1px solid black;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+/* Creates a border around each of the table elements on the game pages */
+td, th
+{
+    border: 1px solid black;
+}
+
+/* Styling for the table rows on the game pages */
+#eachItem
+{
+    color: rgb(0, 0, 0);
+    width: 220px;
+    height: 330px;
+}
+
+/* Styling for the div which outputs the comments to the page */
+#outputComment
+{
+    border: 2px solid;
+    text-align: left;
+    padding: 5px;
+    background-color: rgb(72, 194, 82);
+    display: none;
+}
+
+/* Styles for the comments after they have been submitted */
+#row
+{
+    display: flex;
+    flex-wrap: wrap;
+
+    border: 1px solid;
+    padding: 5px;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(72, 194, 82);
+}
+
+/* Sets the color of the hollow star (stars that load initially) */
+.far
+{
+    color: rgb(0, 0, 0);
+}
+
+/* Changes the color of the hollow star on mouse hover */
+.far:hover
+{
+    color: rgb(255, 0, 0);
+}
+
+/* Sets the color of the filled star (stars that fill when clicked) */
+.fas
+{
+    color: rgb(27, 0, 182);
+}
+
+/* Used to style the submit buttons on the comment and contact sections */
+#submit-btn, #contact-btn
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0)
+}
+
+.Contact
+{
+    background-color: #7ef17a;
+}
+
+.Comment
+{
+    background-color: #556eff;
+    width: 100%;
+}
+
+/* Comments' heading text which is hidden until a comment is ssubmitted */
+#commentHeading
+{
+    display: none;
+}
+
+/* Used to style the footer on the pages */
+footer
+{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+
+/* Makes all the elements on the page responsive */
+@media only screen and (max-width: 670px)
+{
+    .logotext
+    {
+        width: 100%;
+        height: 100%;
+    }
+
+    #logo
+    {
+        float: left;
+        width: 100%;
+        height: 100%;
+    }
+
+    nav 
+    {
+        flex-direction: column;   
+        text-align: center;     
+    }
+
+    .dropdown-content, .dropdown-content a, .dropdown, .dropdownbtn
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .dropdown:hover
+    {
+        height: 215px;
+    }
+
+    th, tbody
+    {
+        display: none;
+    }
+    
+    table tr 
+    {
+      border-bottom: 1px solid rgb(0, 0, 0);
+      display: block;
+      margin-bottom: .625em;
+    }
+    
+    table td 
+    {
+      border-bottom: 1px solid rgb(0, 0, 0);
+      display: block;
+      font-size: .8em;
+      text-align: right;
+    }
+    
+    table td::before 
+    {
+      float: left;
+      font-weight: bold;
+    }
+    
+    td:nth-of-type(1):before { content: "Image"; }
+	td:nth-of-type(2):before { content: "Release Date"; }
+	td:nth-of-type(3):before { content: "Platform"; }
+	td:nth-of-type(4):before { content: "Price"; }
+    td:nth-of-type(5):before { content: "Rating"; }
+    
+    table td:last-child 
+    {
+      border-bottom: 0;
+    }
+
+    #itemImage
+    {
+        width: 50%;
+        height: 75%;
+    }
+
+    #eachItem
+    {
+        width: 100%;
+        height: auto;
+    }
+
+    #text-comment
+    {
+        width: 100%;
+        height: 10%;
+    }
+
+    fieldset
+    {
+        width: 99%;
+    }
+
+    #name-comment, #email-comment, #text-comment, .name-comment, .email-comment, .comment-area
+    {
+        width: 100%;
+        height: 10%;
+    }
+}

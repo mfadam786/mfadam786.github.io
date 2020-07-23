@@ -1,0 +1,12 @@
+html, body {
+    font-family: "Segoe UI","Roboto","Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.row-header, .row-body, .row-footer {
+    text-align: center;
+}
+
+.nav .nav-tabs {
+    align-items: center;
+    justify-content: center;
+}

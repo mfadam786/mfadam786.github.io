@@ -1,0 +1,15 @@
+[
+    {
+        "id" : 1,
+        "title" : "Week 1 Class 1",
+        "content" : "/assets/txt/week00.txt"
+    }
+    
+    ,
+
+    {
+        "id" : 2,
+        "title" : "Week 1 Class 2",
+        "content" : "/assets/txt/week01.txt"
+    }
+]

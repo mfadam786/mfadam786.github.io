@@ -2,7 +2,7 @@ html, body {
     font-family: "Segoe UI","Roboto","Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
 }
 
-.row-header, .row-body, .row-footer {
+.row-header, .nav-bar, .row-footer {
     text-align: center;
 }
 

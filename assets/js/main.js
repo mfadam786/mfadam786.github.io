@@ -1,5 +1,6 @@
 $(document).ready(function() {
     
+    var path = "/assets/txt/about.txt"
     var firstDay = new Date("07/20/2020");
     var today = new Date();
     var lastDay = new Date("11/22/2020");
@@ -19,20 +20,12 @@ $(document).ready(function() {
 
         $('#progress-bar').html(`${diff.toFixed(0)}%`)
     }
-})
 
-const loadJSON = () => {
-    fetch('person.json')
-    .then(res => res.json())
-    .then(data => 
-        {
-        data.forEach(d => 
-            {
-            const { id, firstName, lastName } = d
-            console.log(`ID : ${id}`)
-            console.log(`First Name : ${firstName}`)
-            console.log(`Last Name : ${lastName}`)
-        })
+    fetch(path)
+    .then(res => res.text())
+    .then(data => {
+
+        $("#aboutContent").html(data)       
     })
     .catch(err => console.log(err))
-}
+})

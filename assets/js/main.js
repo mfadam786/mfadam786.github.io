@@ -23,9 +23,8 @@ $(document).ready(function() {
 
     fetch(path)
     .then(res => res.text())
-    .then(data => {
-
-        $("#aboutContent").html(data)       
-    })
+    .then(data => $("#aboutContent").html(data))
     .catch(err => console.log(err))
+
+    $("").click()
 })

@@ -1,11 +1,8 @@
 $(document).ready(function() {
-    var index = 0
+    
+    var index = setIndex(index)
 
-    if ((localStorage.getItem("index")) != null)
-        index = localStorage.getItem("index")
-    else {
-        localStorage.setItem("index",0)
-    }
+    console.log("Index: " + index)
 
     fetch('/assets/json/portfolio.json')
     .then(res => res.json())
@@ -13,22 +10,19 @@ $(document).ready(function() {
         {
             data.forEach(d => 
                 {
-                const { id, title, content } = d
+                const { id, title, path } = d
                 console.log(`ID : ${id}`)
                 console.log(`Title : ${title}`)
-                console.log(`Content : ${content}`)
+                console.log(`Path : ${path}`)
             })
 
-        $("#titleOne").html(data[0].title)
-        $("#titleTwo").html(data[1].title)
+        $("#titleOne").html(data[index].title)
+        $("#titleTwo").html(data[index+1].title)
         
-        loadTxt(data[0].content)
-        loadTxt(data[1].content)
-        
+        loadTxt(data[index].path)
+        loadTxt(data[index+1].path)
     })
     .catch(err => console.log(err))
-
-    checkDate(index)
 })
 
 function loadTxt(path)
@@ -47,14 +41,48 @@ function loadTxt(path)
     .catch(err => console.log(err))
 }
 
-function checkDate(index) {
+function setIndex(index) {
 
-    var today = new Date();
-    today.setDate(today.getDate()+3)
+    let page = document.URL.substr(document.URL.length-10,5)
 
-    if (today.toString().substr(0,3) === "Mon") {
-        index++
+    switch(page) {
+
+        case "week1":
+            index=0
+            break;
+
+        case "week2":
+            index=2
+            break;
+
+        case "week3":
+            index=4
+            break;
+        
+        case "week4":
+            index=6
+            break;
+
+        case "week5":
+            index=8
+            break;
+
+        case "week6":
+            index=10
+            break;
+
+        case "week7":
+            index=12
+            break;
+
+        case "week8":
+            index=14
+            break;
+
+        case "week9":
+            index=16
+            break;
     }
 
-    console.log(index)
+    return index
 }

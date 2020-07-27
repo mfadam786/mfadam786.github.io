@@ -2,7 +2,7 @@
     {
         "id" : 1,
         "title" : "Week 1 Class 1",
-        "content" : "/assets/txt/week00.txt"
+        "path" : "/assets/txt/week00.txt"
     }
     
     ,
@@ -10,6 +10,38 @@
     {
         "id" : 2,
         "title" : "Week 1 Class 2",
-        "content" : "/assets/txt/week01.txt"
+        "path" : "/assets/txt/week01.txt"
+    }
+
+    ,
+
+    {
+        "id" : 3,
+        "title" : "Week 2 Class 1",
+        "path" : "/assets/txt/week02.txt"
+    }
+    
+    ,
+
+    {
+        "id" : 4,
+        "title" : "Week 2 Class 2",
+        "path" : "/assets/txt/week03.txt"
+    }
+
+    ,
+
+    {
+        "id" : 5,
+        "title" : "Week 3 Class 1",
+        "path" : "/assets/txt/week04.txt"
+    }
+    
+    ,
+
+    {
+        "id" : 6,
+        "title" : "Week 3 Class 2",
+        "path" : "/assets/txt/week05.txt"
     }
 ]

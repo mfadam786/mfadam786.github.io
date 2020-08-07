@@ -1,42 +1,38 @@
 <ol>
-	<h4><li>What did I do in the 30 minutes of this first lesson?</li></h4>
+	<h3 class="centered">What was done during this lesson?</h3>
 	<br/>
+	<h5><li>Setting up of Github repository for upcoming project.</li></h5>
 	<p>
-		Since I decided to take the Introductory App Development paper in which I will learn how to use Laravel and Laragon, I was already equipped with the knowledge to create a basic 
-		website template so I decided to move further ahead with the Laracast videos toward the more complicated stuff that usually comes later on. I browsed through the list to see 
-		what seemed the most interesting and came across 3 videos:
+		Because I have a group project coming up in a week or 2, this time was used to get into my respective group and create a repository for the upcoming task. My group and I had 
+		created 6 different projects with 3 main questions that need to be asked at the end of each sprint (each sprint will be run over the course of 2 weeks):
+		
+		<ul>
+			<li>What worked well and why it worked well?</li>
+			<li>What could be improved?</li>
+			<li>What will we commit to doing in the next sprint?</li>
+		</ul>
 		<br/>
-			<ol>
-				<strong><li>Basic routing and views using laravel</li></strong>
-					<ul>
-						<li>
-							This video helped refresh my memory on how I would go about creating routes to different html pages using laravel. I learnt that routes are created within a web.php 
-							file as references/pointers to the actual html file which is stored in a different location. This web.php file has knowledge of all the routes and when they are 
-							requested by the user, laravel goes to the folder location in which the view is stored, finds it using the string name it has and pulls it up to be displayed.
-						</li>
-					</ul>
-				<br/>
-				<strong><li>Passing requests data to views</li></strong>
-					<ul>
-						<li>
-							This video was really useful because it taught me how to accept a request made by a user and pass it into the page's view so that is can be located and
-							displayed to the respective page. This concept will become extremely useful in the future when I get into more complex web development requiring a user's input.
-						</li>
-					</ul>
-				<br/>
-				<strong><li>Route wildcards</li></strong>
-				<ul>
-					<li>
-						I felt was the most important because it taught me how to setup a route to a webpage regardless of whether the page exists or not. This way, if a user enters an 
-						invalid url, they are not met with an error that the page could not be found but instead can be redirected to a page that does exist and is valid.
-					</li>
-				</ul>
-				<br/>
-				<br/>
-			</ol>
+
+		By asking these questions I am able to reflect on the ups and downs of the project on an ongoing basis so that I can figure out if things are going the way they should and 
+		come up with effective strategies to improve/resolve any shortcomings if things are clearly not going well. This way any issues from the previous sprint can be ironed out before 
+		the next sprint so that they don't creep up in the next sprint.
+
+		<br/>
+		<img class="image-centered" src="/assets/images/sprint sections.png" alt="Github Project Section"/>
+
+		<h5><li>Complete a basic CRUD application</li></h5>
+		<p>
+			In the last hour of the lesson, Grayson had given my group and I a task of creating a basic CRUD application which can used to create, read, update and delete content. This 
+			sounded like it would be a really interesting challenge to see how well I could work within the group I had been assigned. I had created a brand new repository for this since
+			it was just a task designed to gain an understanding of each of my group members' skills. I came up with the idea of creating a to-do list application in which a user can 
+			note down their list of things that need to be done. This idea met the basis of the task we were given because a new task could be created, an existing task could be edited
+			and a task could be deleted once completed. The reading aspect comes up when the user types in a new task into a field which is then read and created as a task to be done.
+
+
+		</p>
 	</p>
 
-	<h4><li>Do I feel like I learnt something in the entirety of this first session?</li></h4>
+	<h4><li>How is this related to the 12 Agile principles?</li></h4>
 	<p>
 		I did feel like I had learnt something from this first lesson because I felt like I was able to do my own research and learn about an aspect of laravel that I was curious about 
 		and not something that was scheduled to be taught. This way I could get more stuff done on my own and work at my own pace rather than at a lecturer's pace. 

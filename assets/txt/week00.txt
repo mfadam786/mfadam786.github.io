@@ -1,6 +1,5 @@
 <ol>
 	<h4><li>What did I do in the 30 minutes of this first lesson?</li></h4>
-	<br/>
 	<p>
 		Since I decided to take the Introductory App Development paper in which I will learn how to use Laravel and Laragon, I was already equipped with the knowledge to create a basic 
 		website template so I decided to move further ahead with the Laracast videos toward the more complicated stuff that usually comes later on. I browsed through the list to see 
@@ -14,6 +13,8 @@
 							file as references/pointers to the actual html file which is stored in a different location. This web.php file has knowledge of all the routes and when they are 
 							requested by the user, laravel goes to the folder location in which the view is stored, finds it using the string name it has and pulls it up to be displayed.
 						</li>
+						<br/>
+						<img class="" src="/assets/images/Basic routing.png" alt="Image of basic routing using laravel"/>
 					</ul>
 				<br/>
 				<strong><li>Passing requests data to views</li></strong>
@@ -38,7 +39,7 @@
 
 	<h4><li>Do I feel like I learnt something in the entirety of this first session?</li></h4>
 	<p>
-		I did feel like I had learnt something from this first lesson because I felt like I was able to do my own research and learn about an aspect of laravel that I was curious about 
+		I did feel like I had learnt something from this first lesson because I was able to do my own research and learn about an aspect of laravel that I was curious about 
 		and not something that was scheduled to be taught. This way I could get more stuff done on my own and work at my own pace rather than at a lecturer's pace. 
 	</p>
 </ol>

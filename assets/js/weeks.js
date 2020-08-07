@@ -43,43 +43,43 @@ function loadTxt(path)
 
 function setIndex(index) {
 
-    let page = document.URL.substr(document.URL.length-10,5)
+    let page = document.URL.substr(document.URL.length-11,6)
 
     switch(page) {
 
-        case "week1":
+        case "week01":
             index=0
             break;
 
-        case "week2":
+        case "week02":
             index=2
             break;
 
-        case "week3":
+        case "week03":
             index=4
             break;
         
-        case "week4":
+        case "week04":
             index=6
             break;
 
-        case "week5":
+        case "week05":
             index=8
             break;
 
-        case "week6":
+        case "week06":
             index=10
             break;
 
-        case "week7":
+        case "week07":
             index=12
             break;
 
-        case "week8":
+        case "week08":
             index=14
             break;
 
-        case "week9":
+        case "week09":
             index=16
             break;
     }

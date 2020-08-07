@@ -10,3 +10,19 @@ html, body {
     align-items: center;
     justify-content: center;
 }
+
+.centered {
+    text-align: center;
+}
+
+.image-centered {
+    padding: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.image-centered {
+    padding: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}

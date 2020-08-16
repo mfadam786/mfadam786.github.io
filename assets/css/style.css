@@ -11,18 +11,34 @@ html, body {
     justify-content: center;
 }
 
+#titleOne, #titleTwo {
+
+    width: 100%;
+}
+
 .centered {
     text-align: center;
 }
 
-.image-centered {
-    padding: 15%;
-    padding-top: 2%;
-    padding-bottom: 2%;
+.pad-top {
+    padding-top: 3%;
 }
 
-.image-centered {
-    padding: 15%;
-    padding-top: 2%;
-    padding-bottom: 2%;
+.box {
+    padding: 2%;    
+}
+
+.image-centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-left {
+    margin: -30px;
+    padding-top: 3%;
+}
+
+.border {
+    border: 2px solid black;
 }

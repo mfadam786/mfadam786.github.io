@@ -11,6 +11,7 @@
 			<li>What could be improved?</li>
 			<li>What will we commit to doing in the next sprint?</li>
 		</ul>
+		
 		<br/>
 
 		By asking these questions I am able to reflect on the ups and downs of the project on an ongoing basis so that I can figure out if things are going the way they should and 
@@ -18,23 +19,45 @@
 		the next sprint so that they don't creep up in the next sprint.
 
 		<br/>
-		<img class="image-centered" src="/assets/images/sprint sections.png" alt="Github Project Section"/>
+		<br/>
+
+		<div class="border">
+			<img class="image-centre pad-top" src="/assets/images/sprint sections.png" alt="Github Project Section"/>
+			<h6 class="centered">Figure 1: Github project section</h6>
+		</div>
+
+		<br/>
+		<br/>
 
 		<h5><li>Complete a basic CRUD application</li></h5>
 		<p>
 			In the last hour of the lesson, Grayson had given my group and I a task of creating a basic CRUD application which can used to create, read, update and delete content. This 
 			sounded like it would be a really interesting challenge to see how well I could work within the group I had been assigned. I had created a brand new repository for this since
 			it was just a task designed to gain an understanding of each of my group members' skills. I came up with the idea of creating a to-do list application in which a user can 
-			note down their list of things that need to be done. This idea met the basis of the task we were given because a new task could be created, an existing task could be edited
-			and a task could be deleted once completed. The reading aspect comes up when the user types in a new task into a field which is then read and created as a task to be done.
+			note down their list of things that need to be done. This idea met the requirements of the task we were given because a new task could be created, an existing task could be edited
+			and a task could be deleted once completed. The reading aspect comes in when the user types a new task into a textfield which is then read, created and displayed as a task to be done.
 
-
+			<br/>
+			<br/>
+			
+			After discussing my idea with my group, I layed out everything that needed to be completed along with all of the different aspects of the application, i.e. the CRUD stuff. 
+			Since my group consists of a total of 4 people including myself, we each picked one of the 4 functionalities to work on and set out on getting them done. I created the laravel
+			application for us to work on and after cloning the repo, we soon ran into a few problems. If the application was run on a computer other than the one it was created on, it 
+			would result in the errors seen in figure 2. Because no work could get done unless we could actually get the application to run, we devoted time to try and fix the issues. 
+			Eventually I realized that a folder (named vendor) was missing because the gitignore file excludes it from being pushed to Github. This folder as I soon realized was necessary 
+			for the application to run because it contained the files required by laravel to host the application using localhost of the computer. 
+			
+			<br/>
+			<br/>
+			After this problem was solved, there was but one more issue that preventing us from starting with the CRUD app. At this point we had run out of class time and therefore were not 
+			able to complete the CRUD app within the hour we were allocated. Since Grayson clearly witnessed that we were running so many errors, he had told us to continue working on the 
+			project and see how we get on in the next lesson.
 		</p>
-	</p>
 
-	<h4><li>How is this related to the 12 Agile principles?</li></h4>
-	<p>
-		I did feel like I had learnt something from this first lesson because I felt like I was able to do my own research and learn about an aspect of laravel that I was curious about 
-		and not something that was scheduled to be taught. This way I could get more stuff done on my own and work at my own pace rather than at a lecturer's pace. 
+		<br/>
+		<div class="box border">
+			<img class="image-centre border" src="/assets/images/vendor error.png" alt="Vendor folder missing errors"/>
+			<h6 class="centered">Figure 2: Error due to missing vendor folder</h6>
+		</div>
 	</p>
 </ol>

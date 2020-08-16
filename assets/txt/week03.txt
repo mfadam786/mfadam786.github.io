@@ -36,7 +36,6 @@
 
 	<h4><li>Do I feel like I learnt something in the entirety of this first session?</li></h4>
 	<p>
-		I did feel like I had learnt something from this first lesson because I felt like I was able to do my own research and learn about an aspect of laravel that I was curious about 
-		and not something that was scheduled to be taught. This way I could get more stuff done on my own and work at my own pace rather than at a lecturer's pace. 
+		
 	</p>
 </ol>

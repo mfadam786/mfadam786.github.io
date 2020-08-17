@@ -2,7 +2,7 @@
     {
         "id" : 1,
         "title" : "Week 1 Class 1",
-        "path" : "/assets/txt/week00.txt"
+        "path" : "/assets/txt/Week 1/week00.txt"
     }
     
     ,
@@ -10,23 +10,39 @@
     {
         "id" : 2,
         "title" : "Week 1 Class 2",
-        "path" : "/assets/txt/week01.txt"
+        "path" : "/assets/txt/Week 1/week01.txt"
     }
 
     ,
 
     {
         "id" : 3,
+        "title" : "Outside Class",
+        "path" : "/assets/txt/Week 1/week02.txt"
+    }
+
+    ,
+
+    {
+        "id" : 4,
         "title" : "Week 2 Class 1",
-        "path" : "/assets/txt/week02.txt"
+        "path" : "/assets/txt/Week 2/week03.txt"
     }
     
     ,
 
     {
-        "id" : 4,
+        "id" : 5,
         "title" : "Week 2 Class 2",
-        "path" : "/assets/txt/week03.txt"
+        "path" : "/assets/txt/Week 2/week04.txt"
+    }
+
+    ,
+
+    {
+        "id" : 6,
+        "title" : "Outside Class",
+        "path" : "/assets/txt/Week 2/week05.txt"
     }
 
     ,
@@ -34,7 +50,7 @@
     {
         "id" : 5,
         "title" : "Week 3 Class 1",
-        "path" : "/assets/txt/week04.txt"
+        "path" : "/assets/txt/Week 3/week06.txt"
     }
     
     ,
@@ -42,6 +58,38 @@
     {
         "id" : 6,
         "title" : "Week 3 Class 2",
-        "path" : "/assets/txt/week05.txt"
+        "path" : "/assets/txt/Week 3/week07.txt"
+    }
+
+    ,
+
+    {
+        "id" : 7,
+        "title" : "Outside Class",
+        "path" : "/assets/txt/Week 3/week08.txt"
+    }
+
+    ,
+
+    {
+        "id" : 8,
+        "title" : "Week 4 Class 1",
+        "path" : "/assets/txt/Week 4/week09.txt"
+    }
+    
+    ,
+
+    {
+        "id" : 9,
+        "title" : "Week 4 Class 2",
+        "path" : "/assets/txt/Week 4/week10.txt"
+    }
+
+    ,
+
+    {
+        "id" : 10,
+        "title" : "Outside Class",
+        "path" : "/assets/txt/Week 4/week11.txt"
     }
 ]

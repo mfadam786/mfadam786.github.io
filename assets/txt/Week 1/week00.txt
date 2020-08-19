@@ -14,7 +14,10 @@
 							requested by the user, laravel goes to the folder location in which the view is stored, finds it using the string name it has and pulls it up to be displayed.
 						</li>
 						<br/>
-						<img class="image-centre" src="/assets/images/Basic routing.png" alt="Image of basic routing using laravel"/>
+						<div class="centered">
+							<img class="image-centre" src="/assets/images/Basic routing.png" alt="Image of basic routing using laravel"/>
+							<h6>Figure 1: Basic routing which returns a "test" view when the user navigates to the "test" url</h6>
+						</div>
 					</ul>
 				<br/>
 				<strong><li>Passing requests data to views</li></strong>
@@ -28,8 +31,14 @@
 						</li>
 						<br/>
 						<div class="centered">
-							<img class="" src="/assets/images/Passing requests to views.png" alt="Image of basic routing using laravel"/>
-							<img class="" src="/assets/images/Passing requests to views (inline).png" alt="Image of basic routing using laravel"/>
+							<div class="inline pad">
+								<img class="" src="/assets/images/Passing requests to views.png" alt="Image showing how to pass requests to views using laravel"/>
+								<h6>Figure 2: Image showing how to pass requests to views using laravel</h6>
+							</div>
+							<div class="inline pad">
+							<img class="" src="/assets/images/Passing requests to views (inline).png" alt="Image showing how to pass requests to views inline using laravel"/>
+							<h6>Figure 3: Image showing how to pass requests inline to views using laravel</h6>
+						</div>
 						</div>
 					</ul>
 				<br/>
@@ -40,7 +49,11 @@
 						invalid url, they are not met with an error that the page could not be found but instead can be redirected to a page that does exist and is valid.
 					</li>
 					<br/>
-					<img class="image-centre" src="/assets/images/Route wildcards.png" alt="Image of basic routing using laravel"/>
+
+					<div class="centered">
+						<img class="image-centre" src="/assets/images/Route wildcards.png" alt="Image showing how to use wildcards when routing in laravel"/>
+						<h6>Figure 4: Image showing how to use wildcards when routing in laravel</h6>
+					</div>
 				</ul>
 				<br/>
 				<br/>

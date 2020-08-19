@@ -42,3 +42,13 @@ html, body {
 .border {
     border: 2px solid black;
 }
+
+.inline {
+    position: relative;
+    display: inline-block;
+}
+
+.pad {
+    padding-left: 20px;
+    padding-right: 10px;
+}

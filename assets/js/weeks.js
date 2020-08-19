@@ -1,6 +1,8 @@
 $(document).ready(function() {
     
-    var index = setIndex(index)
+    let page = document.URL.substr(document.URL.length-11,6)
+
+    var index = setIndex(page, index)
 
     console.log("Index: " + index)
 
@@ -17,28 +19,29 @@ $(document).ready(function() {
             })
 
         $("#titleOne").html(data[index].title)
+        loadTxt(data[index].path, 0)
+
         $("#titleTwo").html(data[index+1].title)
-        $("#titleThree").html(data[index+2].title)
-        
-        loadTxt(data[index].path)
-        loadTxt(data[index+1].path)
-        loadTxt(data[index+2].path)
+        loadTxt(data[index+1].path, 1)
+
+        if (page.substr(page.length-1, 1) < 3 || page.substr(page.length-1, 1) % 2 == 0) {
+            $("#titleThree").html(data[index+2].title)
+            loadTxt(data[index+2].path, 2)
+        }
     })
     .catch(err => console.log(err))
 })
 
-function loadTxt(path)
+function loadTxt(path, index)
 {
     fetch(path)
     .then(res => res.text())
     .then(data => {
-
-        pathString = path.substr(path.length-6,2) % 3
         
-        if (pathString == 0) {
+        if (index == 0) {
             $("#contentOne").html(data)
         }
-        else if (pathString == 1){
+        else if (index == 1){
             $("#contentTwo").html(data)
         }
         else {
@@ -48,9 +51,7 @@ function loadTxt(path)
     .catch(err => console.log(err))
 }
 
-function setIndex(index) {
-
-    let page = document.URL.substr(document.URL.length-11,6)
+function setIndex(page, index) {
 
     switch(page) {
 
@@ -67,27 +68,27 @@ function setIndex(index) {
             break;
         
         case "week04":
-            index=9
+            index=8
             break;
 
         case "week05":
-            index=12
+            index=11
             break;
 
         case "week06":
-            index=15
+            index=13
             break;
 
         case "week07":
-            index=18
+            index=16
             break;
 
         case "week08":
-            index=21
+            index=18
             break;
 
         case "week09":
-            index=24
+            index=21
             break;
     }
 

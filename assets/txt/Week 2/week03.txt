@@ -1,75 +1,105 @@
-<ol>
-	<h4><li> </li></h4>
+<h2 class="centered">Stand-up session:</h2>
+<br/>
+<p>
+	During this lesson, I had completed my first stand-up session in which each person in my group including myself was required to answer the following 3 questions:
 	<br/>
-	<p>
-		During this lesson, I had completed my first stand-up session in which each person in my group including myself was required to answer the following 3 questions:
-        <br/>
-        <ul>
-            <strong><li><h3>What have you completed since the last meeting?</h3></li></strong>
-			<ul>
-				<li>
-					During the previous lesson, my group and I were running into a bunch of internal server errors whenever we had tried to view the laravel app in the browser (see figure 1).
-					Since we could not progress without fixing this issue, I had gone off in search of the answer and surely enough, I had figured out how to fix the internal server 
-					errors that we all were experiencing when trying to run the app. The is one of 2 ways to fix the errors:
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				During the previous lesson, my group and I were running into a bunch of internal server errors whenever we had tried to view the laravel app in the browser (see figure 1).
+				Since we could not progress without fixing this issue, I had gone off in search of the answer and surely enough, I had figured out how to fix the internal server 
+				errors that we all were experiencing when trying to run the app. The is one of 2 ways to fix the errors:
 
-					<ol>
-						<li>
-							The first way is to use the terminal and change directory to the root folder containing the application files and then run the commands 
-							<ul>
-								<li>"composer install"</li>
-								<li>"npm install"</li>
-								<li>"cp .env.example .env"</li>
-								<li>"php artisan key:generate"</li>
-							</ul>
-							Essentially what these commands do is reinstalls all the missing composer and npm dependencies needed to run the application using localhost, then a copy  
-							of the .env.example is made and saved as .env, and finally the missing keys are then generated so allowing the application to run using the localhost address.
-						</li>
-						<br/>
-						<li> 
-							The second way is to copy and paste the vendor folder back into the main app directory
-							and then rename the .env.example file to .env which when run in the browser would force the user to generate the keys that were missing. Thereafter the page could
-							be reloaded and it would start working once again.
-						</li>
-					</ol>
-
+				<ol>
+					<li>
+						The first way is to use the terminal and change directory to the root folder containing the application files and then run the commands:
+						<ul>
+							<li>"composer install"</li>
+							<li>"npm install"</li>
+							<li>"cp .env.example .env"</li>
+							<li>"php artisan key:generate"</li>
+						</ul>
+						Essentially what these commands do is reinstalls all the missing composer and npm dependencies needed to run the application using localhost, then a copy  
+						of the .env.example is made and saved as .env, and finally the missing keys are then generated so allowing the application to run using the localhost address.
+					</li>
 					<br/>
-					
-					Both methods work and accomplish the same task at the end of the day, but in my opinion I feel the second method is much easier because there is no need to remember 
-					specific commands. Since the method of execution is simple to understand, this makes it my preferred choice for any future server errors that may arise.
-
-					<br/>
-					<br/>
-
-					<div class="box border">
-						<img class="image-centre border" src="/assets/images/server error.png" alt="Internal server error"/>
-						<h6 class="centered">Figure 1: Internal server error due to missing app keys</h6>
-					</div>
-				</li>
+					<li> 
+						The second way is to copy and paste the vendor folder back into the main app directory
+						and then rename the .env.example file to .env which when run in the browser would force the user to generate the keys that were missing. Thereafter the page could
+						be reloaded and it would start working once again.
+					</li>
+				</ol>
 
 				<br/>
+				
+				Both methods work and accomplish the same task at the end of the day, but in my opinion I feel the second method is much easier because there is no need to remember 
+				specific commands. Since the method of execution is simple to understand, this makes it my preferred choice for any future server errors that may arise.
 
-			</ul>
-            <strong><li><h3>What do you plan to complete by the next class?</h3></li></strong>
-			<ul>
-				<li>
-					
-				</li>
-			</ul>
+				<br/>
+				<br/>
 
-			<br/>
-			
-            <strong><li><h3>What is getting in your way?</h3></li></strong>
-			<ul>
-				<li>
-					
-				</li>
-			</ul>
-        </ul>
+				<div class="box border">
+					<img class="image-centre border" src="/assets/images/server error.png" alt="Internal server error"/>
+					<h6 class="centered">Figure 1: Internal server error due to missing app keys</h6>
+				</div>
+			</li>
+		</ul>
 		<br/>
-	</p>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				Since I was able to resolve the internal server issues we had been experiencing, this meant that we could finally make a start with the CRUD app and begin implementing
+				the necessary functionality to get the app operational. I had picked my functionality to implement during the previous lesson, which was the reading aspect, and therefore 
+				set out to get my task completed and fully operational by the next lesson. Because creating a new task to be done requires a users input to be read, this included both the 
+				create and read aspects required by the application. This meant that the reading functionality I chose to implement had to be different which is why I instead created a text 
+				file with a list of tasks and read that list into the application which could then be displayed to the page, and thereafter edited and/or deleted once my team members' code 
+				was implemented.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+				The main thing that was getting in my way was the internal server errors preventing me from being able to run the application locally and thereby preventing me from progressing 
+				any further with the CRUD app, but since this issue has finally been resolved, I can finally get on with completing the application Grayson requested because at this point in time 
+				there is nothing that can get in my way, except myself and whether I choose to work or procrastinate.
+			</li>
+		</ul>
+	</ul>
+	<br/>
+</p>
 
-	<h4><li></li></h4>
-	<p>
+<h2 class="centered">CRUD App Progress:</h2>
+<br/>
+<p>
+	During the stand-up earlier I committed to completing my functionality towards the application and by the end of this session, I was quite pleased with the progress I had made. The code I had 
+	implemented would read in a text file and populate the application with the data which could then be updated and/or deleted once my other team members' code had been added. In figure 2,
+	you will see the javascript code I had written to read in a text file and loop through each item in the file writing it to the webpage to be displayed for the user which can be seen in figure 3. 
+	As I loop through the data, a new list element is created and appended to the webpage. 
 
-	</p>
-</ol>
+	<br/> 
+	<br/>
+
+	The "To-Do List" block containing the textfield and the "Add" button (see figure 3) is used to take a user's input and create a new task which gets appended to the end of the list of read in tasks (see figure 4). 
+	The create functionality that can be seen in figure 3 had been completed and implemented by Sophie, one of the 3 people in my group for this semester in software engineering. Unfortunately, the update
+	and delete functionality which was meant to be completed by the remaining 2 group members had not been done for reasons which are unknown to me. It is for this reason that at this present moment in time,
+	my group and I have a CRUD app which is only 50% complete and therefore unfinished.
+</p>
+
+<div class="centered">
+	<div class="inline pad">
+		<img src="/assets/images/CRUD app code.png" alt="Code to read data from text file"/>
+		<h6>Figure 2: Javascript code</h6>
+	</div>
+
+	<div class="inline pad">
+		<img class="border" src="/assets/images/CRUD app.png" alt="Image of CRUD app"/>
+		<h6>Figure 3: CRUD App homepage</h6>
+	</div>
+
+	<div class="inline pad">
+		<img class="border" src="/assets/images/CRUD app - new task.png" alt="CRUD app to-do list"/>
+		<h6>Figure 4: To-do list after creating new task</h6>
+	</div>
+</div>

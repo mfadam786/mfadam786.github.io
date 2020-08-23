@@ -1,41 +1,10 @@
 <ol>
-	<h4><li>Week 2 Lesson 2:</li></h4>
+	<h2><li>User Stories:</li></h2>
 	<br/>
 	<p>
-		During this Friday session, I had learnt about user stories, what their purpose is and why they are needed when it comes to creating applications.
-		<br/>
-			<ol>
-				<strong><li>Basic routing and views using laravel</li></strong>
-					<ul>
-						<li>
-							This video helped refresh my memory on how I would go about creating routes to different html pages using laravel. I learnt that routes are created within a web.php 
-							file as references/pointers to the actual html file which is stored in a different location. This web.php file has knowledge of all the routes and when they are 
-							requested by the user, laravel goes to the folder location in which the view is stored, finds it using the string name it has and pulls it up to be displayed.
-						</li>
-					</ul>
-				<br/>
-				<strong><li>Passing requests data to views</li></strong>
-					<ul>
-						<li>
-							This video was really useful because it taught me how to accept a request made by a user and pass it into the page's view so that is can be located and
-							displayed to the respective page. This concept will become extremely useful in the future when I get into more complex web development requiring a user's input.
-						</li>
-					</ul>
-				<br/>
-				<strong><li>Route wildcards</li></strong>
-				<ul>
-					<li>
-						I felt was the most important because it taught me how to setup a route to a webpage regardless of whether the page exists or not. This way, if a user enters an 
-						invalid url, they are not met with an error that the page could not be found but instead can be redirected to a page that does exist and is valid.
-					</li>
-				</ul>
-				<br/>
-				<br/>
-			</ol>
-	</p>
+		During this session, I had learnt about user stories, what their purpose is and why they are important when it comes to creating applications for customers or users. A user story is a description that is used by developers to track
+		all of the key features that are required to complete an application. These user stories become particularly useful when it comes to figuring out exactly which features are of top priority in order to get the application to a workable 
+		and functional state.
 
-	<h4><li>Do I feel like I learnt something in the entirety of this first session?</li></h4>
-	<p>
-		
 	</p>
 </ol>

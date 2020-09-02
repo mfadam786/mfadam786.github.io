@@ -2,9 +2,27 @@
 	<h2><li>User Stories:</li></h2>
 	<br/>
 	<p>
-		During this session, I had learnt about user stories, what their purpose is and why they are important when it comes to creating applications for customers or users. A user story is a description that is used by developers to track
-		all of the key features that are required to complete an application. These user stories become particularly useful when it comes to figuring out exactly which features are of top priority in order to get the application to a workable 
-		and functional state.
-
+		During this session, I had learnt about user stories, what their purpose is and why they are important when it comes to creating applications for customers or users. A user story is a verbal description of one or many features from the 
+		perspective of an end user that an application is required to have. It is therefore used by developers to track all features that are required by an application. These user stories are particularly important when it comes to figuring 
+		out exactly which features are of top priority in order to get the application to a workable and functional state. As you can see in figure 1, there is an example of a user story I had written as my team and I brainstormed user stories 
+		for features we needed in the upcoming project we were going to start in the next lesson. 
 	</p>
+	<div class="box border">
+		<img class="image-centre border" src="/assets/images/User story.png" alt="Snippet of a user story"/>
+		<br/>
+		<h6 class="centered">Figure 1: Example of a user story I had written for our upcoming group project</h6>
+	</div>
+
+	<br/>
+	<br/>
+	
+	<p>
+		In figure 2.
+	</p>
+
+	<div class="box border">
+		<img class="image-centre border" src="/assets/images/User stories.png" alt="Snippet of our list of user stories"/>
+		<br/>
+		<h6 class="centered">Figure 2: List of user stories my group and I came up with for our upcoming group project</h6>
+	</div>
 </ol>

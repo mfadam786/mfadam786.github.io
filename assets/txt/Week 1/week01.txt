@@ -57,6 +57,7 @@
 		<br/>
 		<div class="box border">
 			<img class="image-centre border" src="/assets/images/vendor error.png" alt="Vendor folder missing errors"/>
+			<br/>
 			<h6 class="centered">Figure 2: Error due to missing vendor folder</h6>
 		</div>
 	</p>

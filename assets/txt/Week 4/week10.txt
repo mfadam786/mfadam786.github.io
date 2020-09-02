@@ -1,1 +1,11 @@
-Outside class content week 4.
+Sprint Retrospective
+
+<ul>
+	<strong><li>What did you do well?</li></strong>
+			
+	<strong><li>What could you have done better? </li></strong>
+
+	<strong><li>What lessons did you learn?</li></strong>
+            
+	<strong><li>What barriers did you encounter?</li></strong>
+</ul>

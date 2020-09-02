@@ -16,6 +16,7 @@
 						<br/>
 						<div class="centered">
 							<img class="image-centre" src="/assets/images/Basic routing.png" alt="Image of basic routing using laravel"/>
+							<br/>
 							<h6>Figure 1: Basic routing which returns a "test" view when the user navigates to the "test" url</h6>
 						</div>
 					</ul>
@@ -30,13 +31,18 @@
 							the image to the right,	the code is inlined meaning that the request is gathered and passed to the view in the same line of code that is used to display the view.
 						</li>
 						<br/>
+						<br/>
 						<div class="centered">
 							<div class="inline pad">
 								<img class="" src="/assets/images/Passing requests to views.png" alt="Image showing how to pass requests to views using laravel"/>
+								<br/>
+								<br/>
 								<h6>Figure 2: Image showing how to pass requests to views using laravel</h6>
 							</div>
 							<div class="inline pad">
 							<img class="" src="/assets/images/Passing requests to views (inline).png" alt="Image showing how to pass requests to views inline using laravel"/>
+							<br/>
+							<br/>
 							<h6>Figure 3: Image showing how to pass requests inline to views using laravel</h6>
 						</div>
 						</div>
@@ -52,6 +58,7 @@
 
 					<div class="centered">
 						<img class="image-centre" src="/assets/images/Route wildcards.png" alt="Image showing how to use wildcards when routing in laravel"/>
+						<br/>
 						<h6>Figure 4: Image showing how to use wildcards when routing in laravel</h6>
 					</div>
 				</ul>

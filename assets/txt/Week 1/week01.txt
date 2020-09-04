@@ -21,8 +21,9 @@
 		<br/>
 		<br/>
 
-		<div class="border">
-			<img class="image-centre pad-top" src="/assets/images/sprint sections.png" alt="Github Project Section"/>
+		<div class="border box">
+			<img class="border image-centre pad-top" src="/assets/images/Week 1/sprint sections.png" alt="Github Project Section"/>
+			<br/>
 			<h6 class="centered">Figure 1: Github project section</h6>
 		</div>
 
@@ -56,7 +57,7 @@
 
 		<br/>
 		<div class="box border">
-			<img class="image-centre border" src="/assets/images/vendor error.png" alt="Vendor folder missing errors"/>
+			<img class="image-centre border" src="/assets/images/Week 1/vendor error.png" alt="Vendor folder missing errors"/>
 			<br/>
 			<h6 class="centered">Figure 2: Error due to missing vendor folder</h6>
 		</div>

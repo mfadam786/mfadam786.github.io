@@ -40,7 +40,7 @@
 				<br/>
 
 				<div class="box border">
-					<img class="image-centre border" src="/assets/images/server error.png" alt="Internal server error"/>
+					<img class="image-centre border" src="/assets/images/Week 2/server error.png" alt="Internal server error"/>
 					<br/>
 					<h6 class="centered">Figure 1: Internal server error due to missing app keys</h6>
 				</div>
@@ -90,23 +90,23 @@
 
 <br/>
 
-<div class="centered">
-	<div class="inline pad">
-		<img src="/assets/images/CRUD app code.png" alt="Code to read data from text file"/>
+<div class="border box centered">
+	<div class="border box inline">
+		<img class="border" src="/assets/images/Week 2/CRUD app code.png" alt="Code to read data from text file"/>
 		<br/>
 		<br/>
 		<h6>Figure 2: Javascript code</h6>
 	</div>
 
-	<div class="inline pad">
-		<img class="border" src="/assets/images/CRUD app.png" alt="Image of CRUD app"/>
+	<div class="border box inline">
+		<img class="border" src="/assets/images/Week 2/CRUD app.png" alt="Image of CRUD app"/>
 		<br/>
 		<br/>
 		<h6>Figure 3: CRUD App homepage</h6>
 	</div>
 
-	<div class="inline pad">
-		<img class="border" src="/assets/images/CRUD app - new task.png" alt="CRUD app to-do list"/>
+	<div class="border box inline">
+		<img class="border" src="/assets/images/Week 2/CRUD app - new task.png" alt="CRUD app to-do list"/>
 		<br/>
 		<br/>
 		<h6>Figure 4: To-do list after creating new task</h6>

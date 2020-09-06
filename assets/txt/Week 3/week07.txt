@@ -1,1 +1,11 @@
-Outside class week 3 content.
+<h3 class="centered"> Sprint 1 - Week 2:</h3>
+<ul>
+    <p>
+        This week kicked off the start of the project in which my group and I needed to create a web application in which a user could login
+    </p>
+        
+    <strong><li>Task Delegation:</li></strong>
+    <p>
+        When it came to deciding who would complete certain tasks, 
+    </p>
+</ul>

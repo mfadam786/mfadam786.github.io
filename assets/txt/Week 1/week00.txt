@@ -14,10 +14,12 @@
 							requested by the user, laravel goes to the folder location in which the view is stored, finds it using the string name it has and pulls it up to be displayed.
 						</li>
 						<br/>
-						<div class="border box centered">
-							<img class="image-centre" src="/assets/images/Week 1/Basic routing.png" alt="Image of basic routing using laravel"/>
-							<br/>
-							<h6>Figure 1: Basic routing which returns a "test" view when the user navigates to the "test" url</h6>
+						<div class="border box centered" width="100%">
+							<div class="border box inline" width="100%">
+								<img class="image-centre" src="/assets/images/Week 1/Basic routing.png" alt="Image of basic routing using laravel" width="100%"/>
+								<br/>
+								<h6>Figure 1: Basic routing which returns a "test" view when the user navigates to the "test" url</h6>
+							</div>
 						</div>
 					</ul>
 				<br/>
@@ -32,15 +34,15 @@
 						</li>
 						<br/>
 						<br/>
-						<div class="border box centered">
-							<div class="border box inline">
-								<img src="/assets/images/Week 1/Passing requests to views.png" alt="Image showing how to pass requests to views using laravel"/>
+						<div class="border box centered" width="100%">
+							<div class="border box inline" width="100%">
+								<img src="/assets/images/Week 1/Passing requests to views.png" alt="Image showing how to pass requests to views using laravel" width="100%"/>
 								<br/>
 								<br/>
 								<h6>Figure 2: Image showing how to pass requests to views using laravel</h6>
 							</div>
-							<div class="border box inline">
-								<img src="/assets/images/Week 1/Passing requests to views (inline).png" alt="Image showing how to pass requests to views inline using laravel"/>
+							<div class="border box inline" width="100%">
+								<img src="/assets/images/Week 1/Passing requests to views (inline).png" alt="Image showing how to pass requests to views inline using laravel" width="100%"/>
 								<br/>
 								<br/>
 								<h6>Figure 3: Image showing how to pass requests inline to views using laravel</h6>
@@ -56,10 +58,12 @@
 					</li>
 					<br/>
 
-					<div class="border box centered">
-						<img class="image-centre" src="/assets/images/Week 1/Route wildcards.png" alt="Image showing how to use wildcards when routing in laravel"/>
-						<br/>
-						<h6>Figure 4: Image showing how to use wildcards when routing in laravel</h6>
+					<div class="border box centered" width="100%">
+						<div class="border box inline" width="100%">
+							<img class="image-centre" src="/assets/images/Week 1/Route wildcards.png" alt="Image showing how to use wildcards when routing in laravel" width="100%"/>
+							<br/>
+							<h6>Figure 4: Image showing how to use wildcards when routing in laravel</h6>
+						</div>
 					</div>
 				</ul>
 				<br/>

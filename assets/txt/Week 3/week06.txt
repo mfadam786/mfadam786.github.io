@@ -1,7 +1,38 @@
-<h2> Sprint 1:</h2>
+<h1 class="centered">Sprint 1</h1>
+<br/>
+<h4 class="centered">Class 1:</h4>
 <p>
-     
-    <ul>
-        <li></li>
-    </ul>
+    This week kicked off the start of the semester long web application project which my group and I needed to create using the user stories we had come up with in the previous lesson. 
+    Since we had already organised the user stories by priority, we now needed to figure out who was going to complete the respective application features. This was when we as a group 
+    decided to figure out where our strengths and weaknesses lay. We picked a handful of features to complete, and thereafter found out from each group member which ones they would feel 
+    the most confident being able to complete. 
 </p>
+
+<div class="border box centered" width="100%">
+    <div class="border box inline" width="100%">
+        <img src="/assets/images/Week 3/Sprint 1 - Features to do.png" alt="Kanban board of some of the tasks on our to-do-list" width="100%"/>
+        <br/>
+        <br/>
+        <h6>Figure 1: Kanban board showing some of the tasks needing to be completed by the end of sprint 1</h6>
+    </div>
+</div>
+
+<ul>
+    <strong><li>Task Delegation:</li></strong>
+    <p>
+        When it came to deciding who would complete certain tasks, 
+    </p>
+</ul>
+<br/>
+<h4 class="centered">Class 2:</h4>
+
+    <ul>
+        <p>
+            
+        </p>
+            
+        <strong><li></li></strong>
+        <p>
+            
+        </p>
+    </ul>

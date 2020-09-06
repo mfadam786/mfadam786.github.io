@@ -7,11 +7,13 @@
 		out exactly which features are of top priority in order to get the application to a workable and functional state. As you can see in figure 1, there is an example of a user story I had written as my team and I brainstormed user stories 
 		for features we needed in the upcoming project we were going to start in the next lesson. 
 	</p>
-	<div class="border box centered">
-		<img class="border" src="/assets/images/Week 2/User story.png" alt="Snippet of a user story"/>
-		<br/>
-		<br/>
-		<h6 class="centered">Figure 1: Example of a user story I had written for our upcoming group project</h6>
+	<div class="border box centered" width="100%">
+		<div class="border box inline" width="100%">
+			<img class="border" src="/assets/images/Week 2/User story.png" alt="Snippet of a user story" width="100%"/>
+			<br/>
+			<br/>
+			<h6 class="centered">Figure 1: Example of a user story I had written for our upcoming group project</h6>
+		</div>
 	</div>
 
 	<br/>
@@ -21,10 +23,12 @@
 		In figure 2.
 	</p>
 
-	<div class="box border centered">
-		<img src="/assets/images/Week 2/User stories.png" alt="Snippet of our list of user stories"/>
-		<br/>
-		<br/>
-		<h6 class="centered">Figure 2: List of user stories my group and I came up with for our upcoming group project</h6>
+	<div class="box border centered" width="100%">
+		<div class="box border inline" width="100%">
+			<img src="/assets/images/Week 2/User stories.png" alt="Snippet of our list of user stories" width="100%"/>
+			<br/>
+			<br/>
+			<h6 class="centered">Figure 2: List of user stories my group and I came up with for our upcoming group project</h6>
+		</div>
 	</div>
 </ol>

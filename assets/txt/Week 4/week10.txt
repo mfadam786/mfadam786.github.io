@@ -1,11 +1,52 @@
-Sprint Retrospective
-
 <ul>
 	<strong><li>What did you do well?</li></strong>
-			
+	<p>
+		I feel as though I managed my time quite efficiently throughout this sprint because I was able to complete all of my respective features and tasks within a short span of time.
+	</p>
+
+	<div class="border box centered" width="100%">
+		<div class="border box inline" width="100%">
+			<img class="border" src="/assets/images/Week 4/Retrospective - Login feature.png" alt="Image of login branch commits"/>
+			<br/>
+			<br/>
+			<h6>Figure 1: Login branch commits showing time taken to work on login and registration</h6>
+		</div>
+	</div>
+
+	<br/>
+
 	<strong><li>What could you have done better? </li></strong>
+	<br/>
+	<ul>
+		<li>
+			I feel as though we as a group needed to communicate much more than we did because other than when my group and I got together both in class and during our single out of class meeting, we barely communicated throughout the sprint.
+			I had made a group chat on teams consisting of all the members in my group with the intention of using this as a means to communicate with each other throughout the sprint. The only time during this sprint that we had made use of
+			this form of communication was in the first week because I mentioned that we needed to set up a meeting with Grayson (our client) so that we could discuss what he wanted out of the software we were developing. I feel that a message
+			from the SCRUM master every 2-3 days checking up on how everyone was going would have made our communication a whole lot better as this would have allowed us to remain up-to-date with what each person was doing and keep track of the
+			progress they were making.
+		</li>
+
+		<br/>
+
+		<li>
+			The second thing I feel we could improve on for the next sprint is to merge all of the features worked on during the sprint into our dev branch early, prefereably during our 2pm Monday meetings so that we have a day before showcase
+			to allow time to test and make sure everything works the way it is meant to. This way, we avoid running into any errors during the showcase like we did during the end of this sprint.
+		</li>
+	</ul>
+
+	<br/>
 
 	<strong><li>What lessons did you learn?</li></strong>
-            
+	<p>
+
+	</p>
+
+	<br/>
+
 	<strong><li>What barriers did you encounter?</li></strong>
+	<p>
+
+	</p>
+
+	<br/>
 </ul>

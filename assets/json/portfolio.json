@@ -1,7 +1,7 @@
 [
     {
         "id" : 1,
-        "title" : "Week 1 Class 1",
+        "title" : "Class 1",
         "path" : "/assets/txt/Week 1/week00.txt"
     }
     
@@ -9,7 +9,7 @@
 
     {
         "id" : 2,
-        "title" : "Week 1 Class 2",
+        "title" : "Class 2",
         "path" : "/assets/txt/Week 1/week01.txt"
     }
 
@@ -25,7 +25,7 @@
 
     {
         "id" : 4,
-        "title" : "Week 2 Class 1",
+        "title" : "Class 1",
         "path" : "/assets/txt/Week 2/week03.txt"
     }
     
@@ -33,7 +33,7 @@
 
     {
         "id" : 5,
-        "title" : "Week 2 Class 2",
+        "title" : "Class 2",
         "path" : "/assets/txt/Week 2/week04.txt"
     }
 
@@ -49,7 +49,7 @@
 
     {
         "id" : 7,
-        "title" : "Week 3",
+        "title" : "Sprint 1 - Week 1",
         "path" : "/assets/txt/Week 3/week06.txt"
     }
     
@@ -57,7 +57,7 @@
 
     {
         "id" : 8,
-        "title" : "Outside Class",
+        "title" : "Sprint 1 - Outside Class",
         "path" : "/assets/txt/Week 3/week07.txt"
     }
 
@@ -65,7 +65,7 @@
 
     {
         "id" : 9,
-        "title" : "Week 4",
+        "title" : "Sprint 1 - Week 2",
         "path" : "/assets/txt/Week 4/week08.txt"
     }
 
@@ -73,7 +73,7 @@
 
     {
         "id" : 10,
-        "title" : "Outside Class",
+        "title" : "Sprint 1 - Outside Class",
         "path" : "/assets/txt/Week 4/week09.txt"
     }
     
@@ -81,7 +81,7 @@
 
     {
         "id" : 11,
-        "title" : "Sprint 1 Retrospective",
+        "title" : "Sprint 1 - Retrospective",
         "path" : "/assets/txt/Week 4/week10.txt"
     }
 
@@ -89,7 +89,7 @@
 
     {
         "id" : 12,
-        "title" : "Week 5",
+        "title" : "Sprint 2 - Week 1",
         "path" : "/assets/txt/Week 5/week11.txt"
     }
     
@@ -97,7 +97,7 @@
 
     {
         "id" : 13,
-        "title" : "Outside Class",
+        "title" : "Sprint 2 - Outside Class",
         "path" : "/assets/txt/Week 5/week12.txt"
     }
 
@@ -105,7 +105,7 @@
 
     {
         "id" : 14,
-        "title" : "Week 6",
+        "title" : "Sprint 2 - Week 2",
         "path" : "/assets/txt/Week 6/week13.txt"
     }
 
@@ -113,7 +113,7 @@
 
     {
         "id" : 15,
-        "title" : "Outside Class",
+        "title" : "Sprint 2 - Outside Class",
         "path" : "/assets/txt/Week 6/week14.txt"
     }
     
@@ -121,7 +121,7 @@
 
     {
         "id" : 16,
-        "title" : "Sprint 2 Retrospective",
+        "title" : "Sprint 2 - Retrospective",
         "path" : "/assets/txt/Week 6/week15.txt"
     }
 
@@ -129,7 +129,7 @@
 
     {
         "id" : 17,
-        "title" : "Week 7",
+        "title" : "Sprint 3 - Week 1",
         "path" : "/assets/txt/Week 7/week16.txt"
     }
     
@@ -137,7 +137,7 @@
 
     {
         "id" : 18,
-        "title" : "Outside Class",
+        "title" : "Sprint 3 - Outside Class",
         "path" : "/assets/txt/Week 7/week17.txt"
     }
     
@@ -145,23 +145,63 @@
 
     {
         "id" : 19,
-        "title" : "Week 8",
-        "path" : "/assets/txt/Week 6/week18.txt"
+        "title" : "Sprint 3 - Week 2",
+        "path" : "/assets/txt/Week 8/week18.txt"
     }
 
     ,
 
     {
         "id" : 20,
-        "title" : "Outside Class",
-        "path" : "/assets/txt/Week 7/week19.txt"
+        "title" : "Sprint 3 - Outside Class",
+        "path" : "/assets/txt/Week 8/week19.txt"
     }
     
     ,
 
     {
         "id" : 21,
-        "title" : "Sprint Retrospective",
-        "path" : "/assets/txt/Week 7/week20.txt"
+        "title" : "Sprint 3 - Retrospective",
+        "path" : "/assets/txt/Week 8/week20.txt"
+    }
+
+    ,
+
+    {
+        "id" : 22,
+        "title" : "Sprint 4 - Week 1",
+        "path" : "/assets/txt/Week 9/week21.txt"
+    }
+    
+    ,
+
+    {
+        "id" : 23,
+        "title" : "Sprint 4 - Outside Class",
+        "path" : "/assets/txt/Week 9/week22.txt"
+    }
+    
+    ,
+
+    {
+        "id" : 24,
+        "title" : "Sprint 4 - Week 2",
+        "path" : "/assets/txt/Week 10/week23.txt"
+    }
+
+    ,
+
+    {
+        "id" : 25,
+        "title" : "Sprint 4 - Outside Class",
+        "path" : "/assets/txt/Week 10/week24.txt"
+    }
+    
+    ,
+
+    {
+        "id" : 26,
+        "title" : "Sprint 4 - Retrospective",
+        "path" : "/assets/txt/Week 10/week25.txt"
     }
 ]

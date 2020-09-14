@@ -34,15 +34,15 @@
 						</li>
 						<br/>
 						<br/>
-						<div class="border box centered" width="100%">
-							<div class="border box inline" width="100%">
-								<img src="/assets/images/Week 1/Passing requests to views.png" alt="Image showing how to pass requests to views using laravel" width="100%"/>
+						<div class="border box centered">
+							<div class="border box inline pad">
+								<img src="/assets/images/Week 1/Passing requests to views.png" alt="Image showing how to pass requests to views using laravel"/>
 								<br/>
 								<br/>
 								<h6>Figure 2: Image showing how to pass requests to views using laravel</h6>
 							</div>
-							<div class="border box inline" width="100%">
-								<img src="/assets/images/Week 1/Passing requests to views (inline).png" alt="Image showing how to pass requests to views inline using laravel" width="100%"/>
+							<div class="border box inline pad">
+								<img src="/assets/images/Week 1/Passing requests to views (inline).png" alt="Image showing how to pass requests to views inline using laravel"/>
 								<br/>
 								<br/>
 								<h6>Figure 3: Image showing how to pass requests inline to views using laravel</h6>

@@ -1,11 +1,30 @@
-<h3 class="centered"> Sprint 1 - Week 2:</h3>
+<h2 class="centered">Outside of Class:</h2>
+<br/>
 <ul>
+    <strong><li>Login and Registration Functionality:</li></strong>
     <p>
-        This week kicked off the start of the project in which my group and I needed to create a web application in which a user could login
-    </p>
+        Since Albert and I decided to peer program and get the login and registration functionality working, this meant that we both needed to be in the same place at the same time in order to get started
+        with it. At this point, it was thursday and most of week 1 had gone but we had not done any work towards getting our login and registration functionality started. I tried contacting Albert at this 
+        point, both on Microsoft teams and Facebook Messenger (see Figure 1 and Figure 2), so that we could meet up and work on our task together but I could not get a hold of him until 2 hours later. By then, I had already completed 
+        both the login and registration functionality because I figured if I wait for the time in which we both are in the same room together to work on it, our group members and the SCRUM master would wonder 
+        why no progress had been made to the features we had chosen to undertake.
         
-    <strong><li>Task Delegation:</li></strong>
-    <p>
-        When it came to deciding who would complete certain tasks, 
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 3/Contacted via Messenger.png" alt="Image of me messaging Albert on Facebook Messenger" width="20%" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 1: Screenshot of me trying to contact Albert via Messenger</h6>
+            </div>
+
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 3/Contacted via Teams.png" alt="Image of me messaging Albert on Teams" width="20%" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 1: CRUD App homepage</h6>
+            </div>
+        </div>
     </p>
 </ul>

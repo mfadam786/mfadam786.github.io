@@ -90,6 +90,34 @@ function setIndex(page, index) {
         case "week09":
             index=21
             break;
+            
+        case "week10":
+            index=23
+            break;
+            
+        case "week11":
+            index=26
+            break;
+            
+        case "week12":
+            index=28
+            break;
+            
+        case "week13":
+            index=31
+            break;
+            
+        case "week14":
+            index=33
+            break;
+            
+        case "week15":
+            index=36
+            break;
+            
+        case "week16":
+            index=38
+            break;
     }
 
     return index

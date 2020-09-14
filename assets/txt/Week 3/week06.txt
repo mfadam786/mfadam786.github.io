@@ -1,30 +1,73 @@
-<h1 class="centered">Sprint 1</h1>
-<br/>
-<h4 class="centered">Class 1:</h4>
+<h2 class="centered">Class 1:</h2>
 <p>
     This week kicked off the start of the semester long web application project which my group and I needed to create using the user stories we had come up with in the previous lesson. 
     Since we had already organised the user stories by priority, we now needed to figure out who was going to complete the respective application features. This was when we as a group 
-    decided to figure out where our strengths and weaknesses lay. We picked a handful of features to complete, and thereafter found out from each group member which ones they would feel 
-    the most confident being able to complete. 
-</p>
+    decided to figure out where our strengths and weaknesses lay. </p>
+<br/>
+<ul>
+    <strong><li>Task Delegation:</li></strong>
+    <p>
+        We picked a handful of features, also known as issues, to complete and thereafter found out from each group member which feature they would feel the most confident being able to complete based on the 
+        skills they possessed. 
 
+        <ol>
+            <li>
+                Sophie, one of the group members of mine said that she was not a confident programmer and disliked javascript, but quite enjoyed working with css, relating to the styling
+                of a site. This gave us a better understanding of the tasks to avoid assigning to her, because from this we realized that she would be the perfect person to handle the look
+                and feel of our site.
+            </li>
+            <li>
+                The remaining 2 group members, Isaac and Albie, felt they were a bit more confident when it came to handling the programming aspects of the projects, but also did not mind
+                working on styling if they needed to.
+            </li>
+            <li>
+                Myself on the other hand, I felt that I was also more of a confident programmer type person and a less of a creative and stylistic person. This meant that assigning me the styling 
+                aspect of the project would not have been a very strategic and thought out plan because I would not do a better job with it seeing as though I do not feel it is a strong point of mine.
+            </li>
+        </ol>
+
+        <br/>
+
+        By taking this time to better understand the things people in my group were strong at, we were able to improve the dynamic of the group by working off of each others strengths and making
+        up for each others' weaknesses. This process also helped us eliminate any possible future conflicts with regards to motivation because by each person deciding what they would be better at, 
+        it gave the group an idea of the type of things that actually interested each person in the group and this meant that if people were interested by certain aspects of the project, they would 
+        be more likely to complete their assigned tasks without needing to be hassled and/or micro-managed by the SCRUM master throughout the sprint.
+
+        <br/>
+        <br/>
+
+        We then moved on to delegating the tasks to be done during this sprint. We planned to complete the following functionalities which would allow us to:
+        <ol>
+            <li>Register a new user</li>
+            <li>Login as a user</li>
+            <li>Add new games</li>
+            <li>Edit existing games</li>
+            <li>Delete existing games</li>
+            <li>Navigate the website (by use of a nav bar)</li>
+            <li>General layout of the home page (layout html page that could be extended to all other pages)</li>
+            <li>Creation of the database (to hold all necessary and important data)</li>
+        </ol>
+
+        <br/>
+        <br/>
+        
+        Albie and I both seemed quite intrigued by the login and registration functionality part of the project so we decided that we would tackle that aspect of the project and complet it by doing peer 
+        programming whereby 2 or more people contribute to one or more features for the project. Isaac decided to work on the adding, editing and deleting of games, and Sophie decided to take the navigation
+        and layout of the home page.
+    </p>
+</ul>
+<br/>
 <div class="border box centered" width="100%">
     <div class="border box inline" width="100%">
-        <img src="/assets/images/Week 3/Sprint 1 - Features to do.png" alt="Kanban board of some of the tasks on our to-do-list" width="100%"/>
+        <img src="/assets/images/Week 3/Sprint 1 - Features to do.png" alt="Kanban board of some of the tasks on our to-do-list"/>
         <br/>
         <br/>
         <h6>Figure 1: Kanban board showing some of the tasks needing to be completed by the end of sprint 1</h6>
     </div>
 </div>
 
-<ul>
-    <strong><li>Task Delegation:</li></strong>
-    <p>
-        When it came to deciding who would complete certain tasks, 
-    </p>
-</ul>
 <br/>
-<h4 class="centered">Class 2:</h4>
+<h2 class="centered">Class 2:</h2>
 
     <ul>
         <p>

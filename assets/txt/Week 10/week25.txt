@@ -1,1 +1,61 @@
-Week 10, retrospective
+<ul>
+	<strong><li>What did you do well?</li></strong>
+	<p>
+		I feel as though I managed my time quite efficiently throughout this sprint because I was able to complete all of my respective features and tasks within a short span of time.
+	</p>
+
+	<div class="border box centered" width="100%">
+		<div class="border box inline" width="100%">
+			<img class="border" src="/assets/images/Week " alt="Image of login branch commits"/>
+			<br/>
+			<br/>
+			<h6>Figure 1: </h6>
+		</div>
+	</div>
+
+	<br/>
+
+	<strong><li>What could you have done better? </li></strong>
+	<br/>
+	<ul>
+		<li>
+			I feel as though 
+		</li>
+	</ul>
+
+	<br/>
+
+	<strong><li>What lessons did you learn?</li></strong>
+	<p>
+
+	</p>
+
+	<br/>
+
+	<strong><li>What barriers did you encounter?</li></strong>
+	<ul>
+		<li>
+			<p>
+				Since my functionality relied on other members having completed 
+				I was unable to begin working on anything until other members of my group had completed their designated tasks.
+			</p>
+		</li>
+		<li>
+			Because we were planning on using our games site as a starting point, this meant most of the functionality 
+			was already there and all we would need to do was change up a few things like :
+			
+			<ul>
+				<li>create a new database so that it can hold information about cars</li>
+				<li>convert the games and groups functionalities to align it with the new cars theme</li>
+				<li>update the colour scheme</li>
+				<li>Convert joining of groups functionality to favouriting functionality</li>
+			</ul>
+
+			<br/>
+
+			Since most of the functionality I had done across previous sprints, like the login/registration and email verification,	
+			was already part of this new project, this meant that it left me with not much individual work I could contribute towards this sprint.
+		</li>
+
+		<br/>
+</ul>

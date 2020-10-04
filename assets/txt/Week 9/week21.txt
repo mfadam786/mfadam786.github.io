@@ -1,1 +1,69 @@
-Week 9, Class.
+<h2 class="centered">Class 1:</h2>
+
+<br/>
+
+<h4 class="centered"><u>Client Meeting</u></h4>
+<br/>
+<p>
+    This sprint, it was my turn to be the SCRUM master for this sprint so I went ahead and scheduled a meeting with our 
+    client so that we could discuss what features and functionality he wanted by the end of the sprint. During the meeting, 
+    we had gone over what each group member had completed in the previous sprint and demoed the working software for the 
+    client to show him the progress we had made thus far. Ocne he was happy with our progress, we moved onto discussing what 
+    we were required to complete by the end of this sprint. This was when we were we'd be changing the entire theme of the site
+    from video games to cars. Obviously its never good hearing from a client that they want to change up the entire theme
+    of a project because it means you'd have to scrap what you've been working on and restart from scratch, <strong>but that
+    was not the case this time...</strong>
+    
+    <br/>
+    <br/>
+
+    The client at this point in time did not have any specific requirements for this new site we were about to make and therefore
+    gave us the freedom to do what we felt was necessary because he felt we were at a great point with the games site we worked on.
+    All the client really wanted from my team and I for this sprint was to get the new cars site to the same standards as the games
+    site as a good starting point before moving ahead and adding any new functionalities. We needed a site to reference and were told
+    to refer to the <a href="https://www.autotrader.co.nz/">autotrader</a> website so that we could figure out what type of functionalities
+    we needed in our website.
+</p>
+
+<br/>
+
+<h4 class="centered"><u>Planning</u></h4>
+<br/>
+<p>
+    After the client meeting, as SCRUM master I felt that we needed to note down all of the functionalities we needed so we could easily figure 
+    out how much work needed to be done. I referenced the autotrader site that we were meant to reference and looked for certain functionalities 
+    that we could implement within our own site. I noted down some of the functionalities I thought our site needed so that we could turn them 
+    into issues. Since we had already been through 3 sprints, each person in my group would have worked on a bunch of issues so I figured that 
+    as each member worked to add 
+    
+    <br/>
+    <br/>
+
+    
+</p>
+
+<br/>
+
+<div class="border box centered" width="100%">
+    <div class="border box inline" width="100%">
+        <img src="/assets/images/Week "/>
+        <br/>
+        <br/>
+        <h6>Figure 1: </h6>
+    </div>
+</div>
+
+<br/>
+
+<h2 class="centered">Class 2:</h2>
+
+    <ul>
+        <p>
+            
+        </p>
+            
+        <strong><li></li></strong>
+        <p>
+            
+        </p>
+    </ul>

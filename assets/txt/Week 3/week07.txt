@@ -3,6 +3,24 @@
 <ul>
     <strong><li>Login and Registration Functionality:</li></strong>
     <p>
+        I had worked on and got both the registration and login pages functional allowing us to be able to register and login to
+        our site
+    </p>
+    <div class="border box centered" width="100%">
+        <div class="border box inline pad" width="100%">
+            <img class="border" src="/assets/images/Week 3/Register page.png" alt="Image of registration page" height="20%"/>
+            <br/>
+            <br/>
+            <h6>Figure 1: Screenshot of the completed registration page</h6>
+        </div>
+        <div class="border box inline pad" width="100%">
+            <img class="border" src="/assets/images/Week 3/Login Page.png" alt="Image of login page" height="20%"/>
+            <br/>
+            <br/>
+            <h6>Figure 2: Screenshot of the completed login page</h6>
+        </div>
+    </div>
+    <p>
         Since Albert and I decided to peer program and get the login and registration functionality working, this meant that we both needed to be in the same place at the same time in order to get started
         with it. At this point, it was thursday and most of week 1 had gone but we had not done any work towards getting our login and registration functionality started. I tried contacting Albert at this 
         point, both on Microsoft teams and Facebook Messenger (see Figure 1 and Figure 2), so that we could meet up and work on our task together but I could not get a hold of him until 2 hours later. By then, I had already completed 
@@ -13,17 +31,17 @@
 
         <div class="border box centered" width="100%">
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 3/Contacted via Messenger.png" alt="Image of me messaging Albert on Facebook Messenger" width="20%" height="20%"/>
+                <img class="border" src="/assets/images/Week 3/Contacted via Messenger.png" alt="Image of me messaging Albert on Facebook Messenger"height="20%"/>
                 <br/>
                 <br/>
                 <h6>Figure 1: Screenshot of me trying to contact Albert via Messenger</h6>
             </div>
 
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 3/Contacted via Teams.png" alt="Image of me messaging Albert on Teams" width="20%" height="20%"/>
+                <img class="border" src="/assets/images/Week 3/Contacted via Teams.png" alt="Image of me messaging Albert on Teams" height="20%"/>
                 <br/>
                 <br/>
-                <h6>Figure 1: CRUD App homepage</h6>
+                <h6>Figure 2: Screenshot of me trying to contact Albert via Teams</h6>
             </div>
         </div>
     </p>

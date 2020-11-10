@@ -1,1 +1,34 @@
-Week 4 content
+<h2 class="centered">Class 1:</h2>
+<p>
+    
+</p>
+<br/>
+<ul>
+    <strong><li>:</li></strong>
+    <p>
+        
+    </p>
+</ul>
+<br/>
+<div class="border box centered" width="100%">
+    <div class="border box inline" width="100%">
+        <img src="/assets/images/Week 4/" alt=""/>
+        <br/>
+        <br/>
+        <h6>Figure 1: </h6>
+    </div>
+</div>
+
+<br/>
+<h2 class="centered">Class 2:</h2>
+
+    <ul>
+        <p>
+            
+        </p>
+            
+        <strong><li></li></strong>
+        <p>
+            
+        </p>
+    </ul>

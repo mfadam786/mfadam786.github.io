@@ -53,7 +53,7 @@
         
         Albie and I both seemed quite intrigued by the login and registration functionality part of the project so we decided that we would tackle that aspect of the project and complet it by doing peer 
         programming whereby 2 or more people contribute to one or more features for the project. Isaac decided to work on the adding, editing and deleting of games, and Sophie decided to take the navigation
-        and layout of the home page.
+        and layouts of the index home page.
     </p>
 </ul>
 <br/>

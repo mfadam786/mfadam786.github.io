@@ -2,6 +2,24 @@
     <h3>About The Website:</h3>
     <br/>
     <p>
+        <strong>Student ID Number:</strong> 
+        
+        <br/>
+        
+        1000065402
+        
+        <br/>
+        <br/>
+        
+        <strong>Name:</strong>
+        
+        <br/>
+        
+        Muhammed Faizel Adam
+        
+        <br/>
+        <br/>
+        
         This website has been created as a means to output all of the things I am learning in Software Engineering both in class and outside of class, my contributions and reflections  
         about any group projects and personal reflections and ways I could have improved if I were to do it over. 
     </p>

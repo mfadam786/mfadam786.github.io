@@ -3,29 +3,11 @@
 <ul>
     <strong><li>Login and Registration Functionality:</li></strong>
     <p>
-        I had worked on and got both the registration and login pages functional allowing us to be able to register and login to
-        our site
-    </p>
-    <div class="border box centered" width="100%">
-        <div class="border box inline pad" width="100%">
-            <img class="border" src="/assets/images/Week 3/Register page.png" alt="Image of registration page" height="20%"/>
-            <br/>
-            <br/>
-            <h6>Figure 1: Screenshot of the completed registration page</h6>
-        </div>
-        <div class="border box inline pad" width="100%">
-            <img class="border" src="/assets/images/Week 3/Login Page.png" alt="Image of login page" height="20%"/>
-            <br/>
-            <br/>
-            <h6>Figure 2: Screenshot of the completed login page</h6>
-        </div>
-    </div>
-    <p>
         Since Albert and I decided to peer program and get the login and registration functionality working, this meant that we both needed to be in the same place at the same time in order to get started
         with it. At this point, it was thursday and most of week 1 had gone but we had not done any work towards getting our login and registration functionality started. I tried contacting Albert at this 
-        point, both on Microsoft teams and Facebook Messenger (see Figure 1 and Figure 2), so that we could meet up and work on our task together but I could not get a hold of him until 2 hours later. By then, I had already completed 
-        both the login and registration functionality because I figured if I wait for the time in which we both are in the same room together to work on it, our group members and the SCRUM master would wonder 
-        why no progress had been made to the features we had chosen to undertake.
+        point, both on Microsoft teams and Facebook Messenger (see Figure 1 and Figure 2), so that we could meet up and work on our task together but I could not get a hold of him until 2 hours later. By then, 
+        I had already completed both the login and registration functionality because I figured if I wait for the time in which we both are in the same room together to work on it, our group members and the 
+        SCRUM master would wonder why no progress had been made to the features we had chosen to undertake.
         
         <br/>
 
@@ -44,5 +26,54 @@
                 <h6>Figure 2: Screenshot of me trying to contact Albert via Teams</h6>
             </div>
         </div>
+    </p>
+    <br/>
+    <p class="text-center">
+        Completed registration and login pages allowing us, as well as users, the ability to register and login to
+        the site.
+    </p>
+    <div class="border box centered" width="100%">
+        <div class="border box inline pad" width="100%">
+            <img class="border" src="/assets/images/Week 3/Register page.png" alt="Image of registration page" height="20%"/>
+            <br/>
+            <br/>
+            <h6>Figure 3: Screenshot of the completed registration page</h6>
+        </div>
+        <div class="border box inline pad" width="100%">
+            <img class="border" src="/assets/images/Week 3/Login Page.png" alt="Image of login page" height="20%"/>
+            <br/>
+            <br/>
+            <h6>Figure 4: Screenshot of the completed login page</h6>
+        </div>
+    </div>
+    <br/>
+    <strong><li>Database Design and Creation:</li></strong>
+    <p>
+        The next task I had undertaken was to create the database so that we could hold all of the key information for the project. The main reason a database is crucial when working with web applications is 
+        the need for persistent data, meaning data that is permanent and that can be accessed at any and all times when using the application. I have undertaken this task because in the previous semester, I 
+        had taken the Databases 2 paper which provided me with the necessary knowledge about databases, such as deciding what data to store, how to reduce duplication of stored data, and how to create and work
+        with a database I create, thereby allowing me confidently create a database for our project.
+        
+        <br/>
+        <br/>
+
+        The first step was to model what the database should look like giving me an overview of all of the tables I would need and information those tables would hold. In figure 5, you will see a screenshot of 
+        the database I have modelled using an online tool called <a href="https://www.google.com/search?q=Lucidchart&oq=Lucidchart&aqs=chrome..69i57j69i59j0l2j69i60l4.1812j0j7&sourceid=chrome&ie=UTF-8">Lucidchart</a>.
+        Now that I have a model of what the database is meant to look like, it was time to create the actual database for the project.
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 4/Database plan.png" alt="Database plan I had created using Lucidchart" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 5: Database plan I created using Lucidchart</h6>
+            </div>
+        </div>
+
+        <br/>
+        <br/>
+
+        After following along with the laravel tutorials we had been given to use, I had come across a the database access section which outlined exactly how 
     </p>
 </ul>

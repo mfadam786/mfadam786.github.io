@@ -79,7 +79,8 @@
 	During the stand-up earlier I committed to completing my functionality towards the application and by the end of this session, I was quite pleased with the progress I had made. The code I had 
 	implemented would read in a text file and populate the application with the data which could then be updated and/or deleted once my other team members' code had been added. In figure 2,
 	you will see the javascript code I had written to read in a text file and loop through each item in the file writing it to the webpage to be displayed for the user which can be seen in figure 3. 
-	As I loop through the data, a new list element is created and appended to the webpage. 
+	As I loop through the data, a new list element is created and appended to the webpage. The main reason I chose to write the code in javascript was because it was a language familiar to me as I had 
+	previously learnt it the year before which made me confident I could get tasks and features done without needing to learn anything new.
 
 	<br/> 
 	<br/>

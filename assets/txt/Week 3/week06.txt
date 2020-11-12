@@ -13,8 +13,8 @@
         <ol>
             <li>
                 Sophie, one of the group members of mine said that she was not a confident programmer and disliked javascript, but quite enjoyed working with css, relating to the styling
-                of a site. This gave us a better understanding of the tasks to avoid assigning to her, because from this we realized that she would be the perfect person to handle the look
-                and feel of our site.
+                of a site. This gave us a better understanding of the tasks to avoid assigning to her, because from this we realized that she would be the perfect person to handle the UX (User Experience) 
+                aspect of our site.
             </li>
             <li>
                 The remaining 2 group members, Isaac and Albie, felt they were a bit more confident when it came to handling the programming aspects of the projects, but also did not mind
@@ -51,7 +51,7 @@
         <br/>
         <br/>
         
-        Albie and I both seemed quite intrigued by the login and registration functionality part of the project so we decided that we would tackle that aspect of the project and complet it by doing peer 
+        Albie and I both seemed quite intrigued by the login and registration functionality part of the project so we decided that we would tackle that aspect of the project and complete it by doing peer 
         programming whereby 2 or more people contribute to one or more features for the project. Isaac decided to work on the adding, editing and deleting of games, and Sophie decided to take the navigation
         and layouts of the index home page.
     </p>
@@ -67,15 +67,31 @@
 </div>
 
 <br/>
-<h2 class="centered">Class 2:</h2>
 
-    <ul>
-        <p>
-            
-        </p>
-            
-        <strong><li></li></strong>
-        <p>
-            
-        </p>
-    </ul>
+<h2 class="centered">Class 2:</h2>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I had completed the registration and login features for the site.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				I plan to create the database my group and I will be needing to hold all of the information we are wanting to keep track of.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+				There isn't anything getting in my way at the moment. 
+			</li>
+		</ul>
+	</ul>
+	<br/>
+</p>

@@ -59,7 +59,7 @@
 <br/>
 <div class="border box centered" width="100%">
     <div class="border box inline" width="100%">
-        <img src="/assets/images/Week 3/Sprint 1 - Features to do.png" alt="Kanban board of some of the tasks on our to-do-list"/>
+        <img src="/assets/images/Week 3/Sprint 1 - Features to do.PNG" alt="Kanban board of some of the tasks on our to-do-list"/>
         <br/>
         <br/>
         <h6>Figure 1: Kanban board showing some of the tasks needing to be completed by the end of sprint 1</h6>

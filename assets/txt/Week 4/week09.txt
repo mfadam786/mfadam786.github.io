@@ -13,14 +13,14 @@
 
         <div class="border box centered" width="100%">
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 4/Username login (code).png" alt="Method used to allow logins with a users username"/>
+                <img class="border" src="/assets/images/Week 4/Username login (code).PNG" alt="Method used to allow logins with a users username"/>
                 <br/>
                 <br/>
                 <h6>Figure 1: Method used to allow logins with a users username</h6>
             </div>
 
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 4/Login with username page.png" alt="Updated login page which accepts username rather than email address"/>
+                <img class="border" src="/assets/images/Week 4/Login with username page.PNG" alt="Updated login page which accepts username rather than email address"/>
                 <br/>
                 <br/>
                 <h6>Figure 2: Updated login page which accepts username rather than email address</h6>

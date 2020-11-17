@@ -9,7 +9,7 @@
 	</p>
 	<div class="border box centered" width="100%">
 		<div class="border box inline" width="100%">
-			<img class="border" src="/assets/images/Week 2/User story.png" alt="Snippet of a user story" width="100%"/>
+			<img class="border" src="/assets/images/Week 2/User story.PNG" alt="Snippet of a user story" width="100%"/>
 			<br/>
 			<br/>
 			<h6 class="centered">Figure 1: Example of a user story I had written for our upcoming group project</h6>
@@ -27,7 +27,7 @@
 
 	<div class="box border centered" width="100%">
 		<div class="box border inline" width="100%">
-			<img src="/assets/images/Week 2/User stories.png" alt="Snippet of our list of user stories" width="100%"/>
+			<img src="/assets/images/Week 2/User stories.PNG" alt="Snippet of our list of user stories" width="100%"/>
 			<br/>
 			<br/>
 			<h6 class="centered">Figure 2: List of user stories my group and I came up with for our upcoming group project</h6>

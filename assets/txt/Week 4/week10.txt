@@ -6,7 +6,7 @@
 
 	<div class="border box centered" width="100%">
 		<div class="border box inline" width="100%">
-			<img class="border" src="/assets/images/Week 4/Retrospective - Login feature.png" alt="Image of login branch commits"/>
+			<img class="border" src="/assets/images/Week 4/Retrospective - Login feature.PNG" alt="Image of login branch commits"/>
 			<br/>
 			<br/>
 			<h6>Figure 1: Login branch commits showing time taken to work on login and registration (2 days)</h6>

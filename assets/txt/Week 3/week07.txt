@@ -13,14 +13,14 @@
 
         <div class="border box centered" width="100%">
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 3/Contacted via Messenger.png" alt="Image of me messaging Albert on Facebook Messenger"height="20%"/>
+                <img class="border" src="/assets/images/Week 3/Contacted via Messenger.PNG" alt="Image of me messaging Albert on Facebook Messenger"height="20%"/>
                 <br/>
                 <br/>
                 <h6>Figure 1: Screenshot of me trying to contact Albert via Messenger</h6>
             </div>
 
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 3/Contacted via Teams.png" alt="Image of me messaging Albert on Teams" height="20%"/>
+                <img class="border" src="/assets/images/Week 3/Contacted via Teams.PNG" alt="Image of me messaging Albert on Teams" height="20%"/>
                 <br/>
                 <br/>
                 <h6>Figure 2: Screenshot of me trying to contact Albert via Teams</h6>
@@ -34,19 +34,19 @@
     </p>
     <div class="border box centered" width="100%">
         <div class="border box inline pad" width="100%">
-            <img class="border" src="/assets/images/Week 4/Commands for auth.png" alt="Image of 2 commands needed to get authentication functional"/>
+            <img class="border" src="/assets/images/Week 4/Commands for auth.PNG" alt="Image of 2 commands needed to get authentication functional"/>
             <br/>
             <br/>
             <h6>Figure 3: Commands needed to get built-in authentication functional</h6>
         </div>
         <div class="border box inline pad" width="100%">
-            <img class="border" src="/assets/images/Week 3/Register page.png" alt="Image of registration page" height="20%"/>
+            <img class="border" src="/assets/images/Week 3/Register page.PNG" alt="Image of registration page" height="20%"/>
             <br/>
             <br/>
             <h6>Figure 4: Screenshot of the completed registration page</h6>
         </div>
         <div class="border box inline pad" width="100%">
-            <img class="border" src="/assets/images/Week 3/Login with email page.png" alt="Image of login page" height="20%"/>
+            <img class="border" src="/assets/images/Week 3/Login with email page.PNG" alt="Image of login page" height="20%"/>
             <br/>
             <br/>
             <h6>Figure 5: Screenshot of the completed login page</h6>
@@ -70,7 +70,7 @@
 
         <div class="border box centered" width="100%">
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 4/Database plan.png" alt="Database plan I had created using Lucidchart" height="20%"/>
+                <img class="border" src="/assets/images/Week 4/Database plan.PNG" alt="Database plan I had created using Lucidchart" height="20%"/>
                 <br/>
                 <br/>
                 <h6>Figure 5: Database plan I created using Lucidchart</h6>

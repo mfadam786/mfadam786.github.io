@@ -34,16 +34,22 @@
     </p>
     <div class="border box centered" width="100%">
         <div class="border box inline pad" width="100%">
+            <img class="border" src="/assets/images/Week 4/Commands for auth.png" alt="Image of 2 commands needed to get authentication functional"/>
+            <br/>
+            <br/>
+            <h6>Figure 3: Commands needed to get built-in authentication functional</h6>
+        </div>
+        <div class="border box inline pad" width="100%">
             <img class="border" src="/assets/images/Week 3/Register page.png" alt="Image of registration page" height="20%"/>
             <br/>
             <br/>
-            <h6>Figure 3: Screenshot of the completed registration page</h6>
+            <h6>Figure 4: Screenshot of the completed registration page</h6>
         </div>
         <div class="border box inline pad" width="100%">
-            <img class="border" src="/assets/images/Week 3/Login Page.png" alt="Image of login page" height="20%"/>
+            <img class="border" src="/assets/images/Week 3/Login with email page.png" alt="Image of login page" height="20%"/>
             <br/>
             <br/>
-            <h6>Figure 4: Screenshot of the completed login page</h6>
+            <h6>Figure 5: Screenshot of the completed login page</h6>
         </div>
     </div>
     <br/>

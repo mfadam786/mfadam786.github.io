@@ -9,7 +9,7 @@
 			<img class="border" src="/assets/images/Week 4/Retrospective - Login feature.png" alt="Image of login branch commits"/>
 			<br/>
 			<br/>
-			<h6>Figure 1: Login branch commits showing time taken to work on login and registration</h6>
+			<h6>Figure 1: Login branch commits showing time taken to work on login and registration (2 days)</h6>
 		</div>
 	</div>
 
@@ -19,18 +19,17 @@
 	<br/>
 	<ul>
 		<li>
-			I feel as though we as a group needed to communicate much more than we did because other than when my group and I got together both in class and during our single out of class meeting, we barely communicated throughout the sprint.
-			I had made a group chat on teams consisting of all the members in my group with the intention of using this as a means to communicate with each other throughout the sprint. The only time during this sprint that we had made use of
-			this form of communication was in the first week because I mentioned that we needed to set up a meeting with Grayson (our client) so that we could discuss what he wanted out of the software we were developing. I feel that a message
-			from the SCRUM master every 2-3 days checking up on how everyone was going would have made our communication a whole lot better as this would have allowed us to remain up-to-date with what each person was doing and keep track of the
-			progress they were making.
+			I honestly feel I could have planned/co-ordinated and communicated a whole lot better with Albie, my group member, about when we could get together to work on our mutual decision to peer program and complete the login and registration functionality,
+			rather than just messaging him and instead of waiting for a response, just going ahead and completing the tasks myself. This was truly unfair to him, which I now realise, as he lost out on quite a chunk of the tasks we had set out to get done
+			during this sprint.
 		</li>
 
-		<br/>
-
 		<li>
-			The second thing I feel we could improve on for the next sprint is to merge all of the features worked on during the sprint into our dev branch early, prefereably during our 2pm Monday meetings so that we have a day before showcase
-			to allow time to test and make sure everything works the way it is meant to. This way, we avoid running into any errors during the showcase like we did during the end of this sprint.
+			I also felt as though we as a group needed to communicate much more than we did because other than when my group and I got together both in class and during our single out of class meeting, we barely communicated throughout the sprint.
+			I had made a group chat on teams consisting of all the members in my group with the intention of using this as a means to communicate with each other throughout the sprint. The only time during this sprint that we had made use of
+			this form of communication was in the first week because I mentioned that we needed to set up a meeting with Grayson (our client) so that we could discuss what he wanted out of the software we were developing, see figure 2 below. I feel that a message
+			from the SCRUM master every 2-3 days checking up on how everyone was going would have made our communication a whole lot better as this would have allowed us to remain up-to-date with what each person was doing and keep track of the
+			progress they were making.
 		</li>
 	</ul>
 
@@ -38,14 +37,29 @@
 
 	<strong><li>What lessons did you learn?</li></strong>
 	<p>
+	<ul>
+		<strong><li>Communication is crucial!</li></strong>
+		<p>
+			When working with a group of people on a project, it is essential to have constant communication with all members of the group to ensure that everybody is aware of what is going on at all times with regards to the project. If there is a break
+			in communication between the group at any point throughout the project, this could lead miscommunication and it could side-track the entire project because 2 people could for instance work on the same feature throughout a sprint and not know 
+			they have done so until the end of the sprint when it is time to merge all features into the development branch.
+		</p>
 
+		<strong><li>Planning is vital!</li></strong>
+		<p>
+			When Albie and I had decided to peer program, we should have also discussed when we both would be free to meet up and work on the features we needed to do. Since we left out this important step, it meant that there was quite a break in communication
+			since I didn't know where Albie was or whether he was free or not since I could not get in contact with him via Teams and Facebook Messenger to find out if we could work on the featuers together.
+			Had we planned beforehand, we could have organised a time and place to meet at some point during that week and get the tasks done together like we planned to in the first place.
+		</p>
+	</ul>
 	</p>
 
 	<br/>
 
 	<strong><li>What barriers did you encounter?</li></strong>
 	<p>
-
+		Deciding to peer program with a group member without planning and co-ordinating with each other about when we would both be free to work on the specified task together. Because we hadn't discussed how, when or where we would peer program, but merely that
+		we would peer program. This was a major issue as it halted the progress of and development of any features that needed to be completed in a pair.
 	</p>
 
 	<br/>

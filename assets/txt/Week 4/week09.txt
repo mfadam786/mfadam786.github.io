@@ -1,1 +1,30 @@
-Outside class content week 4.
+<h2 class="centered">Outside of Class:</h2>
+<br/>
+<ul>
+    <strong><li>Allowing username logins:</li></strong>
+    <p>
+        Since Albert and I decided to peer program and get the login and registration functionality working, this meant that we both needed to be in the same place at the same time in order to get started
+        with it. At this point, it was thursday and most of week 1 had gone but we had not done any work towards getting our login and registration functionality started. I tried contacting Albert at this 
+        point, both on Microsoft teams and Facebook Messenger (see Figure 1 and Figure 2), so that we could meet up and work on our task together but I could not get a hold of him until 2 hours later. By then, 
+        I had already completed both the login and registration functionality because I figured if I wait for the time in which we both are in the same room together to work on it, our group members and the 
+        SCRUM master would wonder why no progress had been made to the features we had chosen to undertake.
+        
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 4/Username login (code).png" alt="Method used to allow logins with a users username"/>
+                <br/>
+                <br/>
+                <h6>Figure 1: Method used to allow logins with a users username</h6>
+            </div>
+
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 4/Login with username page.png" alt="Updated login page which accepts username rather than email address"/>
+                <br/>
+                <br/>
+                <h6>Figure 2: Updated login page which accepts username rather than email address</h6>
+            </div>
+        </div>
+    </p>
+</ul>

@@ -1,34 +1,66 @@
 <h2 class="centered">Class 1:</h2>
+<br/>
 <p>
-    
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				There was nothing left for me to work on since I had already completed all of my assigned functionality last week. This meant that I was left checking if my group members needed any assistance
+                with any of their features, but ofcourse they had everything under control so there wasn't anything left for me to do.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				After demoing the completed registration and login functionality to Grayson, he decided on the spot that logging in with a users email address is quite a long winded task and instead I should
+                change that to allowing users to log in using their username. Since this new feature was suggested by 'the client', I plan to have the ability for users to login using their username done by
+                the next class.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+                Not having any tasks to complete:
+				<ul>
+                    <li>
+                        Because I am completing my tasks at a speedy pace, I feel as though I am wasting time doing nothing just because all my designated features have been completed. Knowing myself, I feel
+                        I am much more productive when I have tasks that challenge me as this forces me to constantly want to get something's completed and working. This way  I am more likely to work on the 
+                        task continuously and I can then space it out in order to get the task completed. 
+                    </li>
+                </ul>
+			</li>
+		</ul>
+	</ul>
+    <br/>
 </p>
-<br/>
-<ul>
-    <strong><li>:</li></strong>
-    <p>
-        
-    </p>
-</ul>
-<br/>
-<div class="border box centered" width="100%">
-    <div class="border box inline" width="100%">
-        <img src="/assets/images/Week 4/" alt=""/>
-        <br/>
-        <br/>
-        <h6>Figure 1: </h6>
-    </div>
-</div>
 
-<br/>
 <h2 class="centered">Class 2:</h2>
-
-    <ul>
-        <p>
-            
-        </p>
-            
-        <strong><li></li></strong>
-        <p>
-            
-        </p>
-    </ul>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I had completed the functionality which enables users to login using a username instead of an email address, see figure below. 
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				Seeing as though this is the end of the sprint, there isn't any new features that I am allowed to implement until the start of the next sprint. Instead, I plan to make sure that I merge all
+                of my features and pull requests into the dev branch to ensure it is ready for the stand-up/showcase meeting in the next class.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+				I am currently quite on track, both with time management and efficiency of completing assigned tasks, so again, I feel there isn't anything getting in my way just yet.
+			</li>
+		</ul>
+	</ul>
+    <br/>
+</p>

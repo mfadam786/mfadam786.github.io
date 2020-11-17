@@ -75,7 +75,7 @@
 		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
 		<ul>
 			<li>
-				I had completed the registration and login features for the site.
+				I had completed the registration and login features for the site. See <strong>'Sprint 1 - Outside Class', figures 3 and 4,</strong> for evidence of login and registration.
 			</li>
 		</ul>
 		<br/>
@@ -89,7 +89,8 @@
 		<strong><li><h4>What is getting in your way?</h4></li></strong>
 		<ul>
 			<li>
-				There isn't anything getting in my way at the moment. 
+				The only thing I felt that got in my way was having to wait to peer program and then eventually end up programming individually or else my assigned feature would not have made any progress,
+                but besides that little hiccup I don't think there is anything getting in my way at this very moment.
 			</li>
 		</ul>
 	</ul>

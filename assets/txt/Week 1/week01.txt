@@ -58,7 +58,7 @@
 		<br/>
 
 		<div class="box border inline centered" width="100%">
-			<img class="image-centre border" src="/assets/images/Week 1/vendor error.png" alt="Vendor folder missing errors" width="100%"/>
+			<img class="image-centre border" src="\assets\images\Week 1\vendor error.png" alt="Vendor folder missing errors" width="100%"/>
 			<br/>
 			<h6 class="centered">Figure 2: Error due to missing vendor folder</h6>
 		</div>

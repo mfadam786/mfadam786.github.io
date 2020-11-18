@@ -1,1 +1,58 @@
-Week 5, class 2
+<h2 class="centered">Outside of Class:</h2>
+<br/>
+<ul>
+    <strong><li>Email validation and verification:</li></strong>
+    <p>
+        At first I assumed this would also be quite a difficult task to get completed but again, as it turned out it was quite simple since Laravel has the built-in ability to send emails and all that needed to be done was that I had to configure our .env file with email host, port number and credentials in order to get emails sending. I also found a very handy tutorial on the official Laragon website which walked me through exactly how I would be able to set it up and get it working.
+
+        <br/>
+
+        <ul>
+            <li>
+                The first step was that I needed to navigate to Menu->Preferences->Mail Sender and add email credentials, i.e. username and password, I just created a brand new email for this project and used it to send emails.
+
+                <div class="border box centered" width="100%">
+                    <div class="border box inline pad" width="100%">
+                        <img class="border" src="/assets/images/Week 5/Laragon mail sender.PNG" alt="Screenshot of how to use mail sender in laravel" height="20%"/>
+                        <br/>
+                        <br/>
+                        <h6>Figure 1: Screenshot of how to use mail sender in laravel</h6>
+                    </div>
+                </div>
+            </li>
+            <li>
+                I then needed  to log in to the email I created and follow the link to turn on less secure apps which would allow laravel to use the credentials I gave it to send emails.
+            </li>
+            <li>
+                Afterwards I just needed to configure the .env file to reflect the figure below and that would result in me successfully completing the email sending functionality I was assigned.
+
+                <div class="border box centered" width="100%">
+                    <div class="border box inline pad" width="100%">
+                        <img class="border" src="/assets/images/Week 5/env email setup.PNG" alt="Screenshot of how to set up the .env file" height="20%"/>
+                        <br/>
+                        <br/>
+                        <h6>Figure 2: Screenshot of how to set up the .env file</h6>
+                    </div>
+                </div>
+            </li>
+        </ul>
+
+        <br/>
+    </p>
+    <br/>
+    <strong><li>Planning for users joining groups:</li></strong>
+    <p>
+        I thought about how the code would need to work step by step and made a little text file basically talking through what was supposed to take place and the order it was meant to occur in. Now that I have this plan, I feel confident that I will be able to get this functionality working if Isaac isn't able to get it working by our next meeting, which will be outside of class.
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 6/Plan of attack (join groups).PNG" alt="Plan of attack for joining groups functionality" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 3: Plan of attack for joining groups functionality</h6>
+            </div>
+        </div>
+    </p>
+</ul>

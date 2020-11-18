@@ -1,1 +1,116 @@
-Week 5, class 1
+<h2 class="centered">Class 1:</h2>
+<p>
+    After the previous sprint, we learnt and came to understand that the client is the most important person during this project  and we as a group cannot work on anything towards the project unless we schedule 
+    a meeting with the client to discuss what he features he wants us to work on. 
+</p>
+<br/>
+<ul>
+    <strong><li>Client Meeting:</li></strong>
+    <p>
+        During the meeting, we demoed the project to our client (Grayson) to ensure he was happy with what we had accomplished thus far. Once we had gotten approval for what we had done, then and only then were
+        we allowed to merge our development branch with our main master branch. This task of merging branches represents the process of updating workable software, i.e. the master branch is meant to represent the 
+        software that is currently deployed and available to users/the client while the development branch represents the software that is currently being worked on. Once the development code and features work and 
+        is approved, it can then be released to the public with the new and updated features.
+
+        <br/>
+
+        We then moved onto discussing what new features the client wanted completed by the end of this sprint. The client requested:
+
+        <ol>
+            <li>
+                that the UI and navigation needed some slight adjustments with regards to the theme and colour schemes and that there needed to be some consistency among across all pages as well as some basic page responsiveness.
+            </li>
+            <li>
+                that we implement a search functionality to search among all the games in the database.
+            </li>
+            <li>
+                email verifications and validations upon the creation of a new account.
+            </li>
+            <li>
+                the ability to create groups and have users be able to join created groups.
+            </li>
+            <li>
+                finally, that image uploads get fixed due to an issue currently unknown which is preventing images from being copied and saved.
+            </li>
+        </ol>
+
+        <br/>
+
+        After receiving our tasks for the sprint, we concluded the meeting, thanked the client for his time and left to delegate tasks.
+    </p>
+
+    <br/>
+
+    <div class="border box centered" width="100%">
+        <div class="border box inline" width="100%">
+            <img src="/assets/images/Week 5/Sprint 2 - Client meeting.PNG" alt="Sprint 2 Client meeting notes"/>
+            <br/>
+            <br/>
+            <h6>Figure 1: Sprint 2 Client meeting notes</h6>
+        </div>
+    </div>
+
+    <br/>
+
+    <strong><li>Task Delegation:</li></strong>
+    <p>
+        After concluding our client meeting, we moved on to delegating tasks for each of the group members to work on. 
+
+        <ol>
+            <li>
+                Since Sophie had been tasked with styling previously, there was no doubt that she would be the person to get the styling issues sorted for this sprint.
+            </li>
+            <li>
+                Since Isaac had worked on the CRUD (Create, Read, Update, Delete) features for games in the previous sprint, it meant he knew what he had worked on and could therefore troubleshoot the bug with image uploads and get that fixed. It also meant that since Isaac worked on the previous CRUD features, he could work on the new group CRUD features and just reuse his existing code as a template and change it to work for the task at hand. Isaac also figured that since he is working on the group creation features that he'd just complete the functionality to allow users to join groups.
+            </li>
+            <li>
+                Albie seemed interested by the search functionality and raised his hand to work on the search functionality.
+            </li>
+            <li>
+                I seemed quite intrigued by the thought of getting emails when a new user is created so I volunteered to work on the email validation and verification features.
+            </li>
+        </ol>
+
+        <br/>
+
+        Once we completed the delegation of tasks, we went off and began working on what we had been assigned for the remainder of the lesson.
+    </p>
+</ul>
+
+<br/>
+
+<h2 class="centered">Class 2:</h2>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I had completed everything needed to get email validation and verification fully functional. Now when a new user registers with our site, before being allowed to view the site, they must verify their email address by logging in to their email and clicking the verify link within the email. Once that link is clicked their email verifies and they are then redirected to the index page of our site. The ability of sending emails has also opened the door and enables users the functionality of being able to reset their passwords if they forget it over time.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				Since I have completed all of my tickets, it means there isn't any of tasks left for me to do which means I am able to help out my other group members if they need assistance with anything. After speaking to Isaac, he explained how he had sort of hit a wall when it came to getting users to join groups so he asked if I was able to take a look at the users joining groups functionality for the project. I then told him I would plan out how it should work and that while I was looking over and planning it out that he should give it another crack in the meantime. This way if he was still stuck, I could take it over and complete it myself. So by the next class, I plan to:
+                <ul>
+                    <li>
+                        create a pull request from my email branch to the development branch and have my features merged ready to be shown to the client.
+                    </li>
+                    <li>
+                        think about and plan out how the code should work logically for having users able to join groups.
+                    </li>
+                </ul>
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+				Nothing has gotten in my way because I was able to diligently work on the email verification until I got it working. I feel as though at the moment, I have quite a lot of motivation to work on new features towards this project which is what is keeping me going and wanting to do tasks.
+			</li>
+		</ul>
+	</ul>
+	<br/>
+</p>

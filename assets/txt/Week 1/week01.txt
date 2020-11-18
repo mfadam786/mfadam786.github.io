@@ -22,7 +22,7 @@
 		<br/>
 
 		<div class="border box inline centered" width="100%">
-			<img class="border image-centre pad-top" src="/assets/images/Week 1/sprint sections.PNG" alt="Github Project Section" width="100%"/>
+			<img class="border image-centre pad-top" src="/assets/images/Week 1/sprint sections.png" alt="Github Project Section" width="100%"/>
 			<br/>
 			<h6 class="centered">Figure 1: Github project section</h6>
 		</div>

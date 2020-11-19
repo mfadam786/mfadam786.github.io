@@ -66,6 +66,7 @@
         The first step was to model what the database should look like giving me an overview of all of the tables I would need and information those tables would hold. In figure 5, you will see a screenshot of 
         the database I have modelled using an online tool called <a href="https://www.google.com/search?q=Lucidchart&oq=Lucidchart&aqs=chrome..69i57j69i59j0l2j69i60l4.1812j0j7&sourceid=chrome&ie=UTF-8">Lucidchart</a>.
         Now that I have a model of what the database is meant to look like, it was time to create the actual database for the project.
+        
         <br/>
 
         <div class="border box centered" width="100%">
@@ -73,13 +74,16 @@
                 <img class="border" src="/assets/images/Week 4/Database plan.PNG" alt="Database plan I had created using Lucidchart" height="20%"/>
                 <br/>
                 <br/>
-                <h6>Figure 5: Database plan I created using Lucidchart</h6>
+                <h6>Figure 6: Database plan I created using Lucidchart</h6>
             </div>
         </div>
 
         <br/>
         <br/>
 
-        After following along with the laravel tutorials we had been given to use, I had come across a the database access section which outlined exactly how 
+        After following along with the laravel tutorials we had been given to use, I had come across a the <a href="https://laracasts.com/series/laravel-6-from-scratch/episodes/9">Database Access</a> tutorial which 
+        outlined exactly how to setup a connection to a database using the .env file. I used this tutorial as well as the <a href="https://laracasts.com/series/laravel-6-from-scratch/episodes/11">Migrations 101</a> 
+        tutorial to create the database and generate migrations which are used easily create and drop tables. Migrations save the user time by having a file to easily create a table when the command "php artisan migrate"
+        is run. It is useful because there is no need for the user to manually create the tables each time they are dropped from the database, which can be a very time consuming task.
     </p>
 </ul>

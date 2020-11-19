@@ -1,1 +1,20 @@
-Week 6, class 2
+<h2 class="centered">Outside of Class:</h2>
+<br/>
+<ul>
+    <strong><li>Users joining groups:</li></strong>
+    <p>
+        After speaking to Isaac, it seemed he was still unsure about how to write the code needed to allow users to join groups so after completing my plan of attack, see figure 1 below, during the weekend, I was confident I would be able to get it done.
+        Since I had already come up with a plan of how I was going to approach this problem, I methodically stepped through my plan line by line which made completing this piece of code quite quick and simple. In the figure below, when a user clicks on the join group button on the webpage, the groups’ information is then passed into the controller as you can see below. I then extract the groups’ id and get the id of the logged in user. These 2 id values are quite important because it allows me to make a link between a user and a group to symbolise that a user is part of a group. This data is then added to the groups table which is a joining table that holds all the information pertaining to which users are a part of which groups. The user is then redirected to the index page displaying all the available groups, in case the user wants to view or join another group.
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 6/Join groups (code).PNG" alt="Code to join users to a group"/>
+                <br/>
+                <br/>
+                <h6>Figure 1: Code to join users to a group</h6>
+            </div>
+        </div>
+    </p>
+</ul>

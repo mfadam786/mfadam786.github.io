@@ -1,1 +1,55 @@
-Week 6, class 1
+<h2 class="centered">Class 1:</h2>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I thought about how the code should work logically and created a plan of attack that can be used to tackle the functionality of allowing users to join groups. I have also created my pull request to merge my email functionality branch to the development branch.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				Since Isaac has given me the user joining groups functionality to do as he was not able to get it working, I plan to have it worked on and completed by the next class.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+                Currently I feel as though I am working quite efficiently with my time management and through my tasks seeing as though I am completing them very quickly. My motivation is still quite high when it comes to working on tasks so I plan to use this motivation to as long as I have it so that I can get lots done in the process.
+			</li>
+		</ul>
+	</ul>
+    <br/>
+</p>
+
+<h2 class="centered">Class 2:</h2>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I have completed the functionality that Isaac had handed over to me which now meant that users were able to join groups but not leave then. This is because I did not have very much time to work on it since we were nearing the end of the sprint.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				Seeing as this is the end of the sprint, I plan to get my features merged to the development branch and ensure that they still function the way they are supposed to alongside my group members' code on the development branch. I do however plan to continue working on the leaving groups functionality during the next sprint.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+				I have been working quite effectively both with my time management and achieving workable code within short periods of time so there isn't anything getting in my way right now. 
+			</li>
+		</ul>
+	</ul>
+    <br/>
+</p>

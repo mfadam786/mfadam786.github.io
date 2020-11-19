@@ -8,8 +8,8 @@
     This sprint, it was my turn to be the SCRUM master for this sprint so I went ahead and scheduled a meeting with our 
     client so that we could discuss what features and functionality he wanted by the end of the sprint. During the meeting, 
     we had gone over what each group member had completed in the previous sprint and demoed the working software for the 
-    client to show him the progress we had made thus far. Ocne he was happy with our progress, we moved onto discussing what 
-    we were required to complete by the end of this sprint. This was when we were we'd be changing the entire theme of the site
+    client to show him the progress we had made thus far. Once he was happy with our progress, we moved onto discussing what 
+    we were required to complete by the end of this sprint. This was when we were told we'd be changing the entire theme of the site
     from video games to cars. Obviously its never good hearing from a client that they want to change up the entire theme
     of a project because it means you'd have to scrap what you've been working on and restart from scratch, <strong>but that
     was not the case this time...</strong>

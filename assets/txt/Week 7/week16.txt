@@ -1,1 +1,92 @@
-Week 7.
+<h2 class="centered">Class 1:</h2>
+<p>
+    After the previous sprint, we learnt and came to understand that the client is the most important person during this project  and we as a group cannot work on anything towards the project unless we schedule 
+    a meeting with the client to discuss what he features he wants us to work on. 
+</p>
+<br/>
+<ul>
+    <strong><li>Client Meeting:</li></strong>
+    <p>
+        During our scheduled meeting with our client, we just gone over the features we had implemented during the previous sprint since we had already demoed our functionalities during the fortnightly stand-up meetings we have as a class at the end of the sprint. Since he had already seen what we had done throughout the previous sprint there was no need to demo our project again. The client opened the floor to ask us what he had left over from the previous sprint that needed to be completed. 
+
+        <br/>
+
+        We noted that:
+
+        <ul>
+            <li>
+                I needed to complete the groups functionality to allow users to both join and leave groups.
+            </li>
+            <li>
+                Sophie needed to make some styling changes and limit number of items being displayed, and
+            </li>
+            <li>
+                Isaac needed to add prompts on deletion as well as delete the associated image when a record with an image is deleted.
+            </li>
+        </ul>
+
+        <br/>
+
+        The client expressed that there was not going to be any new features added for this sprint since there were rumours the topic was going to change from games, which it is currently, to something else, but again this was rumoured by the client.Now that we had our tasks for the sprint, we thanked the client for his time and were off to begin the new sprint.
+    </p>
+
+    <br/>
+
+    <div class="border box centered" width="100%">
+        <div class="border box inline" width="100%">
+            <img src="/assets/images/Week 7/Sprint 3 - Client meeting.PNG" alt="Sprint 3 Client meeting notes"/>
+            <br/>
+            <br/>
+            <h6>Figure 1: Sprint 3 Client meeting notes</h6>
+        </div>
+    </div>
+
+    <br/>
+
+    <strong><li>Task Delegation:</li></strong>
+    <p>
+        Since we had discussed with the client what each member had outstanding to do from the previous sprint, there was no need for us to go through the tasks and assign people features to do like we had in previous sprints. So today, we got together after the meeting, confirmed what we were meant to be doing for the sprint and broke off to get our tasks started.
+    </p>
+</ul>
+
+<br/>
+
+<h2 class="centered">Class 2:</h2>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I have attempted to get the correct button displaying based on whether a user has joined a group or not. Currently I have not completed it but I am still troubleshooting the method I am using and logging data to the screen in order to get it to work the way it should.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				I plan to have at least made some progress towards completing it by next class.
+                I did think of another way in which I can approach the problem of displaying the right button for users joining or leaving groups so I plan to give that a go and hopefully get it working perfectly by the next class. The plan to accomplish this task is to create an array, then loop through and check if a user is part of a group and set a bool variable to true. This way I will have an array that I can loop through and if the value is true, display leave group button otherwise display the join group button.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+				Currently the only thing getting in my way is myself and the way I am use to coding because I feel as though the code to get done is quite simple and straight forward but I may be overcomplicating it by trying to get it done in the manner I am trying to which is all do it in a big if statement, see the figure below. If I am to get it working this way I feel there may be a lot more logic I will need to account for so at this point in time I am thinking about other ways of solving this problem.
+			</li>
+		</ul>
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 7/Old broken code in view.PNG" alt="Code to loop through and decide which button to display to the page"/>
+                <br/>
+                <br/>
+                <h6>Figure 2: Code to loop through and decide which button to display to the page</h6>
+            </div>
+        </div>
+	</ul>
+	<br/>
+</p>

@@ -1,1 +1,55 @@
-Week 8, class
+<h2 class="centered">Class 1:</h2>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I have successfully completed both the displaying of the correct button which now allows users the ability to both join and leave groups as they wish. Abandoning the previous method of doing this task was a good call because it needed quite a lot of if statements to make sure it ran at certain times but not at other times which was becoming too complex and messy.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				The client did mention having the ability to share scores among people within groups so I plan to complete functionality which will allow a user to add a highscore once they have joined a group so that they can compare their highscores with others within the group.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+                Right now, I feel that getting the buttons displaying correctly was my biggest challenge but since completing that, I feel there isn't anything that will be getting in my way for the remainder of the  sprint.
+			</li>
+		</ul>
+	</ul>
+    <br/>
+</p>
+
+<h2 class="centered">Class 2:</h2>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I have completed the functionality which will allow users to add a highscore to the group they are a part of. This sway they can share highscores they have achieved and compare their scores to other peoples scores within the group.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				Seeing as this is the end of the sprint, I plan to get my features merged and ready to be demoed for the client. I also plan to make sure my features still work after they have been merged with my other group members' code.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+				Since overcoming the button display dilemma last week, I haven't experiend anything else getting in my way so I feel I will be able get get the highscores functionality completed by the end of today (the end of the sprint).
+			</li>
+		</ul>
+	</ul>
+    <br/>
+</p>

@@ -1,1 +1,71 @@
-Week 7, Outside class
+<h2 class="centered">Outside of Class:</h2>
+<br/>
+<ul>
+    <strong><li>Deciding which button to display:</li></strong>
+    <p>
+        When I first tackled this, I needed to figure out what button to show the current logged in user based on whether they had joined a group or not. I saw myself logging the data to make it easy for me to track and make sure that the code was working the way it was supposed to. I did this to ensure I was comparing the correct values when doing the if statement. I also displayed a join/leave button based on whether the if statement was true or false, see the figure below. This was clearly not working out though because it was displaying multiple join/leave buttons. I therefore had to take a different approach but I was quite stumped for a little bit.
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 6/Debugging users joining groups.PNG" alt="Screenshot of data being logged to make sure I am getting the correct data out" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 1: Screenshot of data being logged to make sure I am getting the correct data out</h6>
+            </div>
+        </div>
+
+        <br/>
+
+        I decided to come up with a different solution to my problem of figuring out if a user was part of a group already. What I have done is I have created an array and initialized it with the string "false". This array acts as my default check array. Now when I do the check to see if a user is part of a group, the value will change to "true". Now I can just loop through this array on the page and if the string is "true" display the leave button, otherwise display the join button. This method is far more simpler and efficient so I can't understand why I did not think of this in the first place.
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 7/Find groups user joined abstracted.PNG" alt="Code used to check which groups a user is part of" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 2: Code used to check which groups a user is part of</h6>
+            </div>
+        </div>
+    </p>
+    <br/>
+    <strong><li>Users leaving groups:</li></strong>
+    <p>
+        The code to get users to leave groups was simple because all it involved was me having to remove the record where the group id in the joining table matched the group that the user clicked leave on. Looking back at this code now, I realise I have made a mistake because this will remove all groups that match and not the record pertaining to the current logged in user, meaning that all users that joined the group would get removed. This is a major problem which has now been resolved.
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 7/Leave groups.PNG" alt="Code to leave groups (with major issue)" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 2: Code to leave groups (with major issue)</h6>
+            </div>
+
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 7/Leave groups (fixed).PNG" alt="Code to leave groups (with major issue fixed)" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 3: Code to leave groups (with major issue fixed)</h6>
+            </div>
+
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 7/Joined.PNG" alt="Buttons user will see if they have joined a group" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 4: Buttons user will see if they have joined a group</h6>
+            </div>
+
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 7/Not joined.PNG" alt="Buttons user will see if they can join a group" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 5: Buttons user will see if they can join a group</h6>
+            </div>
+        </div>
+    </p>
+</ul>

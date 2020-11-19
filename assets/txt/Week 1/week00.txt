@@ -6,7 +6,7 @@
 		what seemed the most interesting and came across 3 videos:
 		<br/>
 			<ol>
-				<strong><li>Basic routing and views using laravel</li></strong>
+				<strong><li><a href="https://laracasts.com/series/laravel-6-from-scratch/episodes/5">Basic routing and views using laravel</a></li></strong>
 					<ul>
 						<li>
 							This video helped refresh my memory on how I would go about creating routes to different html pages using laravel. I learnt that routes are created within a web.php 
@@ -23,7 +23,7 @@
 						</div>
 					</ul>
 				<br/>
-				<strong><li>Passing requests data to views</li></strong>
+				<strong><li><a href="https://laracasts.com/series/laravel-6-from-scratch/episodes/6">Passing requests data to views</a></li></strong>
 					<ul>
 						<li>
 							This video was really useful because it taught me how to accept a request made by a user and pass it into the page's view so that is can be located and
@@ -50,7 +50,7 @@
 						</div>
 					</ul>
 				<br/>
-				<strong><li>Route wildcards</li></strong>
+				<strong><li><a href="https://laracasts.com/series/laravel-6-from-scratch/episodes/7">Route wildcards</a></li></strong>
 				<ul>
 					<li>
 						I felt was the most important because it taught me how to setup a route to a webpage regardless of whether the page exists or not. This way, if a user enters an 

@@ -1,1 +1,23 @@
-Outside class content week 2.
+<h2 class="centered">Laracast Tutorials:</h2>
+<br/>
+<p>
+	I had been working my way through the laracast tutorials watching certain videos that seemed quite interesting. Since I was enrolled in the Introductory App Dev paper, I was not too worried if I had missed any Laracast tutorials
+    because I know I would have covered that material within that course which would have helped me remain on track with the Laracast tutorials. I had been following through all the tutorials and found these were the most useful:
+
+    <ul>
+        <li><a href="https://laracasts.com/series/laravel-6-from-scratch/episodes/9">Setup A Database Connection</a></li>
+        <li><a href="https://laracasts.com/series/laravel-6-from-scratch/episodes/12">Generate Multiple Files in a Single Command</a></li>
+        <li><a href="https://laracasts.com/series/laravel-6-from-scratch/episodes/23">Form Handling</a></li>
+        <li><a href="https://laracasts.com/series/laravel-6-from-scratch/episodes/27">Reduce Duplication</a></li>
+        <li><a href="https://laracasts.com/series/laravel-6-from-scratch/episodes/31">Many to Many Relationships With Linking Tables</a></li>
+        <li><a href="https://laracasts.com/series/laravel-6-from-scratch/episodes/34">Build a Registration System in Mere Minutes</a></li>
+    </ul>
+
+    <br/>
+
+    I felt that these tutorials have set me up quite nicely to tackle this semesters project seeing as though they cover quite a lot of the features seen in the project from the previous semester (<a href="http://mariadb.ict.op.ac.nz/~se19s2_02/op-stats-mikrosoft/Software%20Engineering%20Project/public/">Mikrosoft Gaming</a>) that we used to create our user stories with.
+    I am now quite confident that this project will be quite interesting and cool after having looked over the Mikrosoft Gaming site. I look forward to the project in the coming weeks.
+    
+	<br/> 
+	<br/>
+</p>

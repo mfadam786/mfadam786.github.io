@@ -1,1 +1,75 @@
-Week 6, outside class
+<ul>
+	<strong><li>What did you do well?</li></strong>
+	<ul>
+		<li>
+		    I feel as though my time management was quite effective seeing as though I was able to complete all of my assigned tickets and still have time to work one of my group members’ functionality and have it all done before the end of the sprint. I feel quite motivated currently and I strongly believe thisis what is driving me to get all my tasks done in a speedy manner.
+		</li>
+
+		<li>
+			I also feel that my communication with other members of my group has improved dramatically in this sprint compared to last sprint seeing as though I was find out that Isaac was not making as much progress as he’d hoped with regards to a bit of functionality he had been tasked to do.If we as a group did not discuss if everything was going smoothly, I would never have known Isaac was stuck and we as a group would probably not even have completed the joining groups functionality we set out to achieve by the end of the sprint.
+		</li>
+	</ul>
+
+	<br/>
+
+	<strong><li>What could you have done better? </li></strong>
+	<br/>
+	<p>
+        I feel as though I could have possibly peer programmed with Isaac with regards to the functionality he had given me to do. This is because he had picked it in the first place which meant he was quite interested by it so I now feel I should have worked alongside him to assist him in getting the functionality completed rather than taking it over and getting it done myself. This way he would have been able to understand how it worked and therefore would have the skills to work on something similar in future projects/courses.
+	</p>
+
+	<br/>
+
+	<strong><li>What lessons did you learn?</li></strong>
+	<p>
+        <ul>
+            <li>
+                I learnt that it is great to get all my tickets for the sprint completed early, but that would mean that if there isn’t any remaining/outstanding unassigned tasks left for the sprint, I would be left doing nothing for the remainder of the sprint which in my opinion is not a productive technique at all.
+            </li>
+
+            <li>
+                I also learnt that maybe instead of taking over a task because I understand how it works, I should assist others to get it completed themselves in order to help them better their understanding of how to do it. This way they will have the ability to move on to future projects with the necessary skills to get a certain task done.
+            </li>
+        </ul>
+	</p>
+
+	<br/>
+
+	<strong><li>What barriers did you encounter?</li></strong>
+	<p>
+		Thankfully I had not encountered any barriers during this sprint as I experienced in the previous sprint. This meant there was nothing getting in my way and preventing me from completing the tickets I had been assigned.
+	</p>
+
+    <br/>
+    
+    <strong><li>Agile Principles:</li></strong>
+    <ul>
+        <li>
+            Principle 1 - "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software":
+        </li>
+        <p>
+            As soon as I was done working on my email feature, I had made a pull request in order to get it signed off by the client. This demonstrated principle 1 because as soon as I had gotten my feature working and tested that it worked, I moved towards trying to get it merged into our development branch, “ready for deployment”.
+        </p>
+
+        <li>
+            Principle 6 - "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation":
+        </li>
+        <p>
+            Meeting in class for our face-to-face lessons helped us gain an understanding of where we as a group were at throughout the sprint. Having in person meetings allows us to figure out if people are having trouble with certain assigned tasks or not because if we communicated via teams, if someone was struggling but didn’t say they were, it would be impossible to tell because all we would see is text as human emotion can’tunderstood through text messages.
+        </p>
+
+        <li>
+            Principle 7 - " Working software is the primary measure of progress":
+        </li>
+        <p>
+            During this sprint, having completed the email verification feature and joining groups feature shows that I have made progress towards the completion of our site.
+        </p>
+
+        <li>
+            Principle 11 - "The best architectures, requirements, and designs emerge from self-organizing teams":
+        </li>
+        <p>
+            Since working over this sprint, my group and I had mostly been self-organized because we would meet up for our scheduled in person meetings to find out how we’ve been doing over the sprint and once we’d complete that, we would continue just working through our tickets for the sprint.
+        </p>
+    </ul>
+</ul>

@@ -1,1 +1,27 @@
-Outside class content week 1.
+<h2 class="centered">Vendor Files Missing Research :</h2>
+<br/>
+<p>
+	After running into all of those errors in class today when cloning our recently created Laravel application, I realized it may be an issue that will constantly arise throughout the semester so I decided to go off
+    and find out what could be causing the issue. After doing some research I came to the understanding that the vendor folder ends up being gitignored which means it does not get backed up to github. Therefore when we clone
+    the project, the vendor files along with all the project dependencies are missing and therefore need to be reinstalled. 
+
+	<br/> 
+	<br/>
+</p>
+
+<br/>
+
+<div class="border box centered" width="100%">
+	<div class="border box inline" width="100%">
+		<img class="border" src="/assets/images/Week 1/Vendor error explained.PNG" alt="Missing vendor files research" width="100%"/>
+		<br/>
+		<br/>
+		<h6>Figure 1: Missing vendor files research</h6>
+	</div>
+    <div class="border box inline" width="100%">
+		<img class="border" src="/assets/images/Week 1/Vendor error solution.PNG" alt="Missing vendor files researched solution" width="100%"/>
+		<br/>
+		<br/>
+		<h6>Figure 2: Missing vendor files researched solution</h6>
+	</div>
+</div>

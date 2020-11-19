@@ -9,7 +9,7 @@
 
         <div class="border box centered" width="100%">
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 6/Debugging users joining groups.PNG" alt="Screenshot of data being logged to make sure I am getting the correct data out" height="20%"/>
+                <img class="border" src="/assets/images/Week 7/Debugging users joining groups.PNG" alt="Screenshot of data being logged to make sure I am getting the correct data out" height="20%"/>
                 <br/>
                 <br/>
                 <h6>Figure 1: Screenshot of data being logged to make sure I am getting the correct data out</h6>

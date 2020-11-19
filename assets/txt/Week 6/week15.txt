@@ -2,7 +2,7 @@
 	<strong><li>What did you do well?</li></strong>
 	<ul>
 		<li>
-		    I feel as though my time management was quite effective seeing as though I was able to complete all of my assigned tickets and still have time to work one of my group members’ functionality and have it all done before the end of the sprint. I feel quite motivated currently and I strongly believe thisis what is driving me to get all my tasks done in a speedy manner.
+		    I feel as though my time management was quite effective seeing as though I was able to complete all of my assigned tickets and still have time to work one of my group members’ functionality and have it all done before the end of the sprint. I feel quite motivated currently and I strongly believe this is what is driving me to get all my tasks done in a speedy manner.
 		</li>
 
 		<li>
@@ -55,7 +55,7 @@
             Principle 6 - "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation":
         </li>
         <p>
-            Meeting in class for our face-to-face lessons helped us gain an understanding of where we as a group were at throughout the sprint. Having in person meetings allows us to figure out if people are having trouble with certain assigned tasks or not because if we communicated via teams, if someone was struggling but didn’t say they were, it would be impossible to tell because all we would see is text as human emotion can’tunderstood through text messages.
+            Meeting in class for our face-to-face lessons helped us gain an understanding of where we as a group were at throughout the sprint. Having in person meetings allows us to figure out if people are having trouble with certain assigned tasks or not because if we communicated via teams, if someone was struggling but didn’t say they were, it would be impossible to tell because all we would see is text as human emotion can't understood through text messages.
         </p>
 
         <li>

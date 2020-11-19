@@ -1,36 +1,43 @@
-<ol>
-	<h2><li>User Stories:</li></h2>
-	<br/>
-	<p>
-		During this session, I had learnt about user stories, what their purpose is and why they are important when it comes to creating applications for customers or users. A user story is a verbal description of one or many features from the 
-		perspective of an end user that an application is required to have. It is therefore used by developers to track all features that are required by an application. These user stories are particularly important when it comes to figuring 
-		out exactly which features are of top priority in order to get the application to a workable and functional state. As you can see in figure 1, there is an example of a user story I had written as my team and I brainstormed user stories 
-		for features we needed in the upcoming project we were going to start next week. 
-	</p>
-	<div class="border box centered" width="100%">
-		<div class="border box inline" width="100%">
-			<img class="border" src="/assets/images/Week 2/User story.PNG" alt="Snippet of a user story" width="100%"/>
-			<br/>
-			<br/>
-			<h6 class="centered">Figure 1: Example of a user story I had written for our upcoming group project</h6>
-		</div>
+<h2 class="centered">User Stories:</h2>
+<br/>
+<p>
+	During this session, I had learnt about user stories, what their purpose is and why they are important when it comes to creating applications for customers or users. A user story is a verbal description of one or many features from the 
+	perspective of an end user that an application is required to have. It is therefore used by developers to track all features that are required by an application. These user stories are particularly important when it comes to figuring 
+	out exactly which features are of top priority in order to get the application to a workable and functional state. As you can see in figure 1, there is an example of a user story I had written as my team and I brainstormed user stories 
+	for features we needed in the upcoming project we were going to start next week. 
+</p>
+<div class="border box centered" width="100%">
+	<div class="border box inline" width="100%">
+		<img class="border" src="/assets/images/Week 2/User story.PNG" alt="Snippet of a user story" width="100%"/>
+		<br/>
+		<br/>
+		<h6 class="centered">Figure 1: Example of a user story I had written for our upcoming group project</h6>
 	</div>
+</div>
 
-	<br/>
-	<br/>
-	
-	<p>
-		My team and I had used a web application created by the previous semester's software engineering students (<a href="http://mariadb.ict.op.ac.nz/~se19s2_02/op-stats-mikrosoft/Software%20Engineering%20Project/public/">Mikrosoft Gaming</a>)
-		to figure out some of the user stories we would need. After spending this lesson brainstorming my group and I came up with a bunch of features we think will be vital to the upcoming projects' success, see figure 2 below. Even though 
-		we spent the lesson thinking about all of the possible features we would need to implement, we realised that we were bound to overlook a few features we would need to have so we figured that if we came across
-	</p>
+<br/>
+<br/>
 
-	<div class="box border centered" width="100%">
-		<div class="box border inline" width="100%">
-			<img src="/assets/images/Week 2/User stories.PNG" alt="Snippet of our list of user stories" width="100%"/>
-			<br/>
-			<br/>
-			<h6 class="centered">Figure 2: List of user stories my group and I came up with for our upcoming group project</h6>
-		</div>
+<p>
+	My team and I had used a web application created by the previous semester's software engineering students (<a href="http://mariadb.ict.op.ac.nz/~se19s2_02/op-stats-mikrosoft/Software%20Engineering%20Project/public/">Mikrosoft Gaming</a>)
+	to figure out some of the user stories we would need. After spending this lesson brainstorming my group and I came up with a bunch of features we think will be vital to the upcoming projects' success, see figure 2 below. Even though 
+	we spent the lesson thinking about all of the possible features we would need to implement, we realised that we were bound to overlook a few features we would need to have so we figured that if we came across
+</p>
+
+<div class="box border centered" width="100%">
+	<div class="box border inline" width="100%">
+		<img src="/assets/images/Week 2/User stories.PNG" alt="Snippet of our list of user stories" width="100%"/>
+		<br/>
+		<br/>
+		<h6 class="centered">Figure 2: List of user stories my group and I came up with for our upcoming group project</h6>
 	</div>
-</ol>
+</div>
+
+<br/>
+
+<h2 class="centered">User Story Priorities:</h2>
+<br/>
+<p>
+	As you can tell in the previous screenshot, Figure 2 above, when my group and I were creating the user stories for the upcoming sprint, we had decided to add priority labels onto a each of the user stories to help us easily distinguish what 
+	features were more important as opposed to others. This would make it easier for us going into the first sprint since we would have already decided what features we would have needed implemented in order to have a workable site to demo and show off.
+</p>

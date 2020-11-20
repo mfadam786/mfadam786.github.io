@@ -26,5 +26,12 @@ $(document).ready(function() {
     .then(data => $("#aboutContent").html(data))
     .catch(err => console.log(err))
 
+    var conclusion = "/assets/txt/conclusion.txt"
+
+    fetch(conclusion)
+    .then(res => res.text())
+    .then(data => $("#conclusionContent").html(data))
+    .catch(err => console.log(err))
+
     $("").click()
 })

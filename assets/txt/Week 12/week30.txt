@@ -1,0 +1,79 @@
+<ul>
+	<strong><li>What did you do well?</li></strong>
+	<p>
+		I feel that even though I had another assignment for another course that I was focussing most of my attention towards, I still managed to get all of my tickets/tasks done before the end of this sprint, which meant I was able to juggle them quite well.
+	</p>
+
+	<br/>
+
+	<div class="border box centered" width="100%">
+		<div class="border box inline pad" width="100%">
+			<img class="border" src="/assets/images/Week 10/Favourites (time taken).PNG" alt="Commits showing time to complete favourites functionality" height="20%"/>
+			<br/>
+			<br/>
+			<h6>Figure 1: Commits showing time to complete favourites functionality</h6>
+		</div>
+	</div>
+
+	<br/>
+
+	<strong><li>What could you have done better? </li></strong>
+	<br/>
+	<ul>
+		<li>
+			I could have worked on my time management a little better and not end up having at a point where I was abandoning this project to complete other course work. I feel my time management across previous sprints was much better since I was able to ensure that I was on top of all of the work I had to do for both this course and all other courses. 
+		</li>
+	</ul>
+
+	<br/>
+
+	<strong><li>What lessons did you learn?</li></strong>
+	<p>
+		I learnt that security breaches are issues that need to be taken very seriously which is why when I came across the bug, I dealt with it immediately because in the real world, people tend to exploit security issues which is one of the main reason they need to be tended to immediately.
+	</p>
+
+	<br/>
+
+	<strong><li>What barriers did you encounter?</li></strong>
+	<ul>
+		<li>
+			<p>
+				Having to work on both this project and the 50% assignment has really been making it difficult to spread my time out evenly. Once I do end up completing and submitting this assignment for my other course, I will no longer be distracted by other classes allowing me to focus all my attention towards making sure our project is as good as it can be by the end of the sprint.
+			</p>
+		</li>
+		
+		<br/>
+	</ul>
+
+	<br/>
+
+	<strong><li>Agile Principles:</li></strong>
+    <ul>
+        <li>
+            Principle 1 - "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software":
+        </li>
+        <p>
+            As soon as I was done able to complete the profiles functionality, I had made a pull request in order to get it signed off by the client. This demonstrated principle 1 because as soon as I had gotten my feature working and tested that it worked, I moved towards trying to get it merged into our development branch, “ready for deployment”.
+        </p>
+
+        <li>
+            Principle 6 - "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation":
+        </li>
+        <p>
+            Meeting in class for our face-to-face lessons helped us gain an understanding of where we as a group were at throughout the sprint. Having in person meetings allows us to figure out if people are having trouble with certain assigned tasks or not because if we communicated via teams, if someone was struggling but didn’t say they were, it would be impossible to tell because all we would see is text as human emotion can't understood through text messages.
+        </p>
+
+        <li>
+            Principle 7 - " Working software is the primary measure of progress":
+        </li>
+        <p>
+            During this sprint, having completed the favourites feature shows that I have made progress towards the completion of our site.
+        </p>
+
+        <li>
+            Principle 11 - "The best architectures, requirements, and designs emerge from self-organizing teams":
+        </li>
+        <p>
+            Since working over this sprint, my group and I had mostly been self-organized because we would meet up for our scheduled in person meetings to find out how we’ve been doing over the sprint and once we’d complete that, we would continue just working through our tickets for the sprint.
+        </p>
+    </ul>

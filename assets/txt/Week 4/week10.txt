@@ -38,6 +38,13 @@
 	<strong><li>What lessons did you learn?</li></strong>
 	<p>
 	<ul>
+		<strong><li>Client meetings need to take place</li></strong>
+		<p>
+			When beginning this sprint, my group and I just used our user story features we created and picked features we thought we would need to have in the application to start off, but we soon realized that before we did anything, we would need to meet with 
+			our client first, whch is the person we are actually building this application for. This is because if we went ahead and worked on something that the client would not want, we would have wasted our time working on something just for it to be scrapped
+			because we did not find out what the client wanted.
+		</p>
+		
 		<strong><li>Communication is crucial!</li></strong>
 		<p>
 			When working with a group of people on a project, it is essential to have constant communication with all members of the group to ensure that everybody is aware of what is going on at all times with regards to the project. If there is a break

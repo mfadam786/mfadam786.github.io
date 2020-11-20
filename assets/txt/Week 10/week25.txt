@@ -63,6 +63,9 @@
 		</li>
 	</ul>
 
+	<br/>
+	<br/>
+
 	<strong><li>Agile Principles:</li></strong>
     <ul>
         <li>
@@ -91,5 +94,12 @@
         </li>
         <p>
             Since working over this sprint, my group and I had mostly been self-organized because we would meet up for our scheduled in person meetings to find out how we’ve been doing over the sprint and once we’d complete that, we would continue just working through our tickets for the sprint.
+        </p>
+
+		<li>
+            Principle 12 - "Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage":
+        </li>
+        <p>
+            The topic change in this sprint demonstrated the 12th agile principle which was to encourage change late into the development of a project. Seeing as though my team and I had embraced the change rather than complaining about it, I felt as though we did well in demonstrating this principle.
         </p>
     </ul>

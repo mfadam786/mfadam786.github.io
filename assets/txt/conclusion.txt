@@ -1,0 +1,30 @@
+<div class="centered">
+    <h3>Finally:</h3>
+    <br/>
+    <p>
+        <strong>With the knowledge you have currently, what would you do differently if you had to do the course over?</strong> 
+        
+        <br/>
+        
+        <ul>
+            <li>
+                If I were to do the course over, I would work harder to ensure I remain on top of my assignments for other classes to be sure it does not encroach on my time to work on the project for this course.
+            </li>
+            <li>
+                I would also ensure that I constantly work on the portfolio making more notes and gathering more evidence than I have currently because now that I think about it, there were some bugs I fixed but at the time, I did not thing to take a 
+                screenshot so that I could use it as evidence to support my point.
+            </li>
+            <li>
+                I would also ensure that I communicate as much as possible with my team throughout the sprints to make sure they are doing alright and to find out if they are needing some assistance with anything.
+            </li>
+        </ul>
+
+        <br/>
+
+        <strong>Was there any advantage in taking the Introductory App Development alongside this paper?</strong> 
+        
+        <br/>
+
+        Yes and No. I feel that Introductory App Development was beneficial because it helped solidify my knowledge of how Laravel works, such as how data can be passed between controllers and views is meant to be and Software Engineering brought along the challenges of actually getting in and working through to get the more complex things done early as opposed to Introductory App Dev where we got into the more difficult concepts later on in the semester. This is because in Software Engineering, I had worked and gotten things like the login, registration, email verification done quite early on, whereas with Introductory App Development I was only getting to work on things like the login and registration towards the end of the semester when we worked on the last assignment. Software Engineering meant that we needed to learn the Laravel concepts quite quickly in order to work on the project whereas with Introductory App Development, we were being taught how to do things at a slow pace which meant that concepts I had learnt and used in Software Engineering were only being covered a few weeks too late in Introductory App Development. So yes I do feel that it was advantageous as it solidified my understanding of the concepts, and no I don't feel it was advantageous since I would be learning concepts in Introductory App Development a few weeks too late.
+    </p>
+</div>

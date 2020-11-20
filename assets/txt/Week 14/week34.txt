@@ -2,7 +2,7 @@
 	<strong><li>What did you do well?</li></strong>
 	<ul>
 		<li>
-			
+			Overall, I felt that I communicated really well with both my group and whenever we had client meetings. I was really pleased with the standard of work I produced throughout the sprint and the fact that I would consistently work on a feature and ensure that any features I was assigned got done. I was also quite impressed that I was able to get the dealerships functionality completed and bug free at a time when we should have just been working to fix bugs. Overall, I feel proud of the work I have produced over this semester.
 		</li>
 	</ul>
 
@@ -11,7 +11,7 @@
 	<strong><li>What could you have done better? </li></strong>
 	<ul>
 		<li>
-			
+			I feel as though I could have possibly worked to implement a bit more features than we did end up with by the end of the project.  I am quite a confident programmer so I feel that I could have possibly worked on a few more cool features which could have been implemented into the site before the end of the semester. I also feel if I had put my time to good use during sprints when I had run out of tasks or sprints when I had been needing to wait for other features to be completed, I could have gotten a lot more accomplished and possibly included another 2-3 more features in that wasted time. I also felt I could have been a better SCRUM master and checked up regularly on my team like I wanted Isaac to do after the sprint he was SCRUM master. It was wrong of me to criticize him when I hadn't even done what I criticized him for when I was SCRUM master.
 		</li>
 	</ul>
 
@@ -19,15 +19,6 @@
 
 	<strong><li>What lessons did you learn?</li></strong>
 	<p>
-		
+		Group communication is the key to success when working on group projects with other people, whether it be for asking for help or just checking up on each other to make sure everyone is still working along and finding out if they are finding everything alright or not. I also learnt that planning is an essential technique which makes large tasks/problems quite easy to solve. I had used planning for a number of tasks to make solving certain coding problems easy, because since I had already planned a task out, it would mean me just going along and following the plan in order to complete the task since I would have already thought about and had an understanding of the task at hand. Another thing I learnt was that it was important to get workable code ready for deployment as soon as possible in order to provide users of the software with the most recent and up-to-date version of the application with any new and interesting features. Keeping the client informed about everything that had been added or left out was also essential because at the end of the day, the software was being completed for someone which meant that they needed to approve of it before it could be carried over to the deployment phase. Overall, I feel as though I have learnt a lot from Software Engineering this semester.
 	</p>
-
-	<br/>
-
-	<strong><li>What barriers did you encounter?</li></strong>
-	<ul>
-		<li>
-            
-		</li>
-	</ul>
 </ul>

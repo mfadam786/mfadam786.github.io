@@ -1,15 +1,17 @@
 <ul>
 	<strong><li>What did you do well?</li></strong>
 	<p>
-		I feel as though I managed my time quite efficiently throughout this sprint because I was able to complete all of my respective features and tasks within a short span of time.
+		I felt as though I completed the favourites functionality quite quickly which set me up to spend a bit more time working on other assignments for other courses. In the commit screenshots below, you will see that I have completed the favourites functionality within a short span of time thereby enabling me to have workable software ready to be shown to the client.
 	</p>
 
+	<br/>
+
 	<div class="border box centered" width="100%">
-		<div class="border box inline" width="100%">
-			<img class="border" src="/assets/images/Week " alt="Image of login branch commits"/>
+		<div class="border box inline pad" width="100%">
+			<img class="border" src="/assets/images/Week 10/Favourites (time taken).PNG" alt="Commits showing time to complete favourites functionality" height="20%"/>
 			<br/>
 			<br/>
-			<h6>Figure 1: </h6>
+			<h6>Figure 1: Commits showing time to complete favourites functionality</h6>
 		</div>
 	</div>
 
@@ -19,7 +21,11 @@
 	<br/>
 	<ul>
 		<li>
-			I feel as though 
+			I feel as though I could have been a better SCRUM master during this sprint. I noted earlier on in the semester that it would have been great if the SCRUM master checked up on how the team was doing regularly at about 2-3-day intervals, which I had carelessly forgotten to do.
+		</li>
+		
+		<li>
+			I also feel that instead of forking our games repository and to make the new cars site, we should have just started over and when we needed to implement functionality, just reference our old code from the previous repo. This way we would not have our old branches in the new repository which would mean when we would work on new features, we would not be overwriting and changes my team member Sophie would have been making by merging old branches with out of date and incorrect styling.
 		</li>
 	</ul>
 
@@ -27,7 +33,11 @@
 
 	<strong><li>What lessons did you learn?</li></strong>
 	<p>
+		Being a SCRUM master who is meant to be a leader and a person that organizes a team is no easy task. Knowing myself and the person I am, I do not think I would make a great leader in future. When I began the sprint, instead of being a sort of dictator type leader, I decided to ask questions and listen to what my team members would have to say about what I had said, but it seemed as though my questions came across as if I was unsure about anything I was saying.
 
+		<br/>
+
+		I also learnt that starting a project over using an existing project as a template makes things quite tricky because it means that whatever was unique and could still be used remained in the project and the person that worked on it would not need to redo it seeing as it would already be completed.
 	</p>
 
 	<br/>
@@ -36,26 +46,50 @@
 	<ul>
 		<li>
 			<p>
-				Since my functionality relied on other members having completed 
-				I was unable to begin working on anything until other members of my group had completed their designated tasks.
+				All of the functionality I had worked on over the first 2 sprints had already been a part of the application when we forked repos so this meant I was not able to redo my features and have it count towards a feature for this sprint. Another barrier I encountered was that I was needing to wait for features to be completed by other member of my group before I could begin working on any features I needed to do.
 			</p>
 		</li>
-		<li>
-			Because we were planning on using our games site as a starting point, this meant most of the functionality 
-			was already there and all we would need to do was change up a few things like :
-			
-			<ul>
-				<li>create a new database so that it can hold information about cars</li>
-				<li>convert the games and groups functionalities to align it with the new cars theme</li>
-				<li>update the colour scheme</li>
-				<li>Convert joining of groups functionality to favouriting functionality</li>
-			</ul>
-
-			<br/>
-
-			Since most of the functionality I had done across previous sprints, like the login/registration and email verification,	
-			was already part of this new project, this meant that it left me with not much individual work I could contribute towards this sprint.
-		</li>
-
+		
 		<br/>
-</ul>
+	</ul>
+
+	<br/>
+
+	<strong><li>Topic change reflection?</li></strong>
+	<br/>
+	<ul>
+		<li>
+			Following the topic change, I felt my group worked well regardless of the change compared to other groups in my class. Our plan of attack was quite effective in the sense that each person was given a task based on what they had completed in the previous sprints up to this point. This way each person would have worked on features in previous sprints and therefore would know exactly how to use what they had done to change it to fit the new brief. This served quite effective considering that Isaac was able to complete all of the CRUD features, Sophie was able to complete some re-styling to make cars site stand out and look different than that of the games site, Albie had worked on changing leaderboard functionality he worked on to make the code somehow fit in to our site and I worked on a favourites/liking feature which is just refactoring of the users joining groups feature from the previous sprint. I feel we have done exceptionally well compared to other groups because when the topic change hit, most groups lost motivation to continue as they had already had felt they did a lot for the games site and to know that it would be changing to cars and that they would have to basically start again, they felt unhappy and had little, if not no motivation to keep going.
+		</li>
+	</ul>
+
+	<strong><li>Agile Principles:</li></strong>
+    <ul>
+        <li>
+            Principle 1 - "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software":
+        </li>
+        <p>
+            As soon as I was done working on my favourites feature, I had made a pull request in order to get it signed off by the client. This demonstrated principle 1 because as soon as I had gotten my feature working and tested that it worked, I moved towards trying to get it merged into our development branch, “ready for deployment”.
+        </p>
+
+        <li>
+            Principle 6 - "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation":
+        </li>
+        <p>
+            Meeting in class for our face-to-face lessons helped us gain an understanding of where we as a group were at throughout the sprint. Having in person meetings allows us to figure out if people are having trouble with certain assigned tasks or not because if we communicated via teams, if someone was struggling but didn’t say they were, it would be impossible to tell because all we would see is text as human emotion can't understood through text messages.
+        </p>
+
+        <li>
+            Principle 7 - " Working software is the primary measure of progress":
+        </li>
+        <p>
+            During this sprint, having completed the favourites feature shows that I have made progress towards the completion of our site.
+        </p>
+
+        <li>
+            Principle 11 - "The best architectures, requirements, and designs emerge from self-organizing teams":
+        </li>
+        <p>
+            Since working over this sprint, my group and I had mostly been self-organized because we would meet up for our scheduled in person meetings to find out how we’ve been doing over the sprint and once we’d complete that, we would continue just working through our tickets for the sprint.
+        </p>
+    </ul>

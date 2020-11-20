@@ -34,36 +34,32 @@
     out how much work needed to be done. I referenced the autotrader site that we were meant to reference and looked for certain functionalities 
     that we could implement within our own site. I noted down some of the functionalities I thought our site needed so that we could turn them 
     into issues. Since we had already been through 3 sprints, each person in my group would have worked on a bunch of issues so I figured that 
-    as each member worked to add 
-    
-    <br/>
-    <br/>
-
-    
+    as each member worked to add     
 </p>
-
-<br/>
-
-<div class="border box centered" width="100%">
-    <div class="border box inline" width="100%">
-        <img src="/assets/images/Week "/>
-        <br/>
-        <br/>
-        <h6>Figure 1: </h6>
-    </div>
-</div>
 
 <br/>
 
 <h2 class="centered">Class 2:</h2>
 
     <ul>
-        <p>
-            
-        </p>
-            
-        <strong><li></li></strong>
-        <p>
-            
-        </p>
-    </ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I had planned out a new database and some tables needed for our new cars website. After creating this plan, it gave me a clear idea of how the tables needed to look and what data needed to be in them so this made creating the tables and foreign key relationships quite quick.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				My plan is to now work on the ability to like/favourite cars and then viewing all favourited cars.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+				Having to wait for other group members to have completed their functionalities before I can begin with my functionality. Unfortunately there isn't much I can do until Isaac completes his CRUD functionality for cars because my favourites feature relies on his car CRUD features being completed. 
+			</li>
+		</ul>
+	</ul>

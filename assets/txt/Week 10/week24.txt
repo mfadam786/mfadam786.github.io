@@ -1,1 +1,25 @@
-Week 10, outside class
+<h2 class="centered">Outside of Class:</h2>
+<br/>
+<ul>
+    <strong><li>Favourites Functionality:</li></strong>
+    <p>
+        I was able to get the favourites functionality working which is exactly what I was hoping I would do. In figure 1 below, there is a screenshot of the cars page with buttons alongside each car row. When a user clicks on the heart, the car id is sent to the controller and their user id alongside the cad id is added to a joining table so that the car they like can be persisted and displayed at a later time on the favourites list page, see figure 2 below.
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 10/Cars page.PNG" alt="Cars page with favourites functionality"/>
+                <br/>
+                <br/>
+                <h6>Figure 1: Cars page with favourites functionality</h6>
+            </div>
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 10/Favourites page.PNG" alt="Cars page with favourites functionality"/>
+                <br/>
+                <br/>
+                <h6>Figure 2: Favourites list page with list of cars favourited</h6>
+            </div>
+        </div>
+    </p>
+</ul>

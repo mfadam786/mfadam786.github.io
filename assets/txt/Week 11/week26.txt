@@ -1,0 +1,74 @@
+<h2 class="centered">Class 1:</h2>
+
+<br/>
+
+<h4 class="centered"><u>Client Meeting</u></h4>
+<br/>
+<p>
+    During our scheduled meeting with our client, we had gone over the features we had implemented during the previous sprint and demoed our project. 
+    The client expressed that our functionality thus far was quite good. We then moved onto finding out what the client wanted us to have completed for this sprint. He requests:
+
+    <br/>
+
+    <ul>
+        <li>a reviews page about cars which can be hardcoded because he doesn't mind.</li>
+        <li>a contact us page</li>
+        <li>the ability to find dealerships and filter cars by dealerships. This could include the use of the google api to get real life locations displaying on the page.</li>
+        <li>that the profile functionality gets completed.</li>
+    </ul>
+    
+    <br/>
+
+    Now that we had our tasks for the sprint, we thanked the client for his time and were off to begin delegating tasks for the new sprint.
+
+    <div class="border box centered" width="100%">
+		<div class="border box inline pad" width="100%">
+			<img class="border" src="/assets/images/Week 11/Sprint 5 - meeting notes.PNG" alt="Sprint 5 – client meeting notes" height="20%"/>
+			<br/>
+			<br/>
+			<h6>Figure 1: Sprint 5 – client meeting notes</h6>
+		</div>
+	</div>
+</p>
+
+<br/>
+
+<h4 class="centered"><u>Task Delegation:</u></h4>
+<br/>
+<p>
+    Once we finished the client meeting, my group and I talked about how we would assign tasks. 
+
+    <ul>
+        <li>Sophie volunteered to work on the  reviews page and continue refining any styling that was needed</li>
+        <li>Albie volunteered to work on the contact us page</li>
+        <li>Isaac decided he'd work on the CRUD functionality for dealerships</li>
+        <li>I was tasked with completing the user profiles feature</li>
+    </ul>
+</p>
+
+<br/>
+
+<h2 class="centered">Class 2:</h2>
+
+    <ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I had completed the viewing and updating of user profiles which meant that users could now edit their profile pictures. 
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				Currently there is a security issue where if users are allowed to edit usernames, they could possibly change their username to one that is already taken which is a breach in security because usernames are what our site currently uses to enable user logins. This means that they have to be unique.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+				I seem to be making up time once again because I am working quite quickly through my tickets as I am close to finishing the user profiles feature I was assigned. This made up time however is being directed towards a 50% django assignment that I have in another course. I feel that this assignment is more of a priority at this point in time because it is worth 50%, but in saying that, since my group and I were able to accomplish so much of functionality up until now, it gave me a little bit of leeway to work on other assignments outside of this project. 
+			</li>
+		</ul>
+	</ul>

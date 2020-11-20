@@ -1,1 +1,85 @@
-Week 8, retrospective
+<ul>
+	<strong><li>What did you do well?</li></strong>
+	<ul>
+		<li>
+		    I was able to get the highscores functionality working quite quickly once I had completed the joining/leaving groups feature.
+		</li>
+	</ul>
+
+	<br/>
+
+	<strong><li>What could you have done better? </li></strong>
+	<br/>
+	<p>
+        I feel as though I should have solved the challenge of getting the correct button to display for the user far earlier in the sprint than I did.
+	</p>
+
+	<br/>
+
+	<strong><li>What lessons did you learn?</li></strong>
+	<p>
+        <ul>
+            <li>
+                I learnt that sometimes taking a small break from working on code can be quite helpful because it means that you leave it be for a little while and then when you eventually get back to it, you will have a fresher more open perspective which would allow is what happened in this case. After coming back after a wile to work on the code, I had a new perspective on how to tackle it making it quite easy to overcome the challenge.
+            </li>
+        </ul>
+	</p>
+
+	<br/>
+
+	<strong><li>What barriers did you encounter?</li></strong>
+	<p>
+		I hit a massive wall when it came to displaying the correct button when if user joined a group or not but after giving it a little break, I feel that helped as I was able to overcome the challenge afterwards. Thankfully after taking a little break from working on it, I was able to get it completed in the end.
+	</p>
+
+    <br/>
+    
+    <strong><li>Agile Principles:</li></strong>
+    <ul>
+        <li>
+            Principle 1 - "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software":
+        </li>
+        <p>
+            After working on the joining /leaving groups and the highscores features, I had made a pull request in order to get it signed off by the client. This demonstrated principle 1 because as soon as I had gotten my feature working and tested that it worked, I moved towards trying to get it merged into our development branch, “ready for deployment”.
+        </p>
+
+        <li>
+            Principle 6 - "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation":
+        </li>
+        <p>
+            Meeting in class for our face-to-face lessons helped us gain an understanding of where we as a group were at throughout the sprint. Having in person meetings allows us to figure out if people are having trouble with certain assigned tasks or not because if we communicated via teams, if someone was struggling but didn’t say they were, it would be impossible to tell because all we would see is text as human emotion can't be understood through text messages.
+        </p>
+
+        <li>
+            Principle 7 - " Working software is the primary measure of progress":
+        </li>
+        <p>
+            During this sprint, having completed the joining /leaving groups and the highscores features shows that I have made progress towards the completion of our site.
+        </p>
+
+        <li>
+            Principle 11 - "The best architectures, requirements, and designs emerge from self-organizing teams":
+        </li>
+        <p>
+            Since working over this sprint, my group and I had mostly been self-organized because we would meet up for our scheduled in person meetings to find out how we’ve been doing over the sprint and once we’d complete that, we would continue just working through our tickets for the sprint. Since each member was self-directed and motivated, there was no need to constantly be behind anyone forcing them to do work towards the sprint.
+        </p>
+
+        <li>
+            Principle 12 - "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly":
+        </li>
+        <p>
+            At the end of this sprint, my team and I had completed an end of sprint retrospective, see screenshot below.
+
+            <br/>
+
+            <div class="border box centered" width="100%">
+                <div class="border box inline pad" width="100%">
+                    <img class="border" src="/assets/images/Week 8/Retrospective.PNG" alt="Sprint retrospective"/>
+                    <br/>
+                    <br/>
+                    <h6>Figure 1: Sprint retrospective</h6>
+                </div>
+            </div>
+        </p>
+    </ul>
+</ul>

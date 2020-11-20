@@ -1,0 +1,49 @@
+<h2 class="centered">Outside of Class:</h2>
+<br/>
+<ul>
+    <p>
+        I was able to complete viewing and editing of user profiles during this week. I had to create some CRUD functionality in order to enable users to add a picture so that it could then be saved into a profiles folder on our local storage when the user uploaded it. 
+
+        <br/>
+        
+        <strong><li>View Profile information:</li></strong>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 11/View profile.PNG" alt="View profile information" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 1: View profile information</h6>
+            </div>
+        </div>
+
+        <br/>
+
+        <strong><li>Edit User Profile information:</li></strong>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 11/Edit profile.PNG" alt="Edit profile information" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 2: Edit profile information</h6>
+            </div>
+        </div>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 11/Updated profile.PNG" alt="Edit profile information" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 2: Updated profile information</h6>
+            </div>
+        </div>
+    </p>
+    <br/>
+
+    <br/>
+    <strong><li>Change Username Bug:</li></strong>
+    <p>
+        I had come across a strange bug when I was testing out my functionality and noticed that users could change their username to anything, including a username which was already taken by another user, which was strange because in my database, usernames are meant to be unique so I expected laravel would just evaluate any unique fields to ensure they were actually unique. This was going to pose a serious security issue because when my group and I had thought about how we would only make it so that an admin user could edit our site, we just created an account with a username of 'admin' and each time we do admin specific features, we check if the user's username is 'admin'. If a user is able to steal the admin username, they will be able to pretty much delete our data and wreak havoc. It would have also broken my teams login functionality which relies on usernames being unique in order for users to login. So for the time being, I have disabled the ability to edit usernames until I am able to resolve the issue.
+    </p>
+</ul>

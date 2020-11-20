@@ -1,1 +1,56 @@
-Week 9, Outside class
+<h2 class="centered">Outside of Class:</h2>
+<br/>
+<ul>
+    <strong><li>Database Plan:</li></strong>
+    <p>
+        I had come up with a plan for what our database should look like including the relationships between the tables and the data the tables are going to hold. Once I completed this overview of the database design, I then created a new database with new migrations and models which was completely separate from the first games database we had been using just in case the client decided we would move back to the games website, we would then still have our old data ready to be used again. 
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 9/Database plan.PNG" alt="New database plan" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 1: New database plan</h6>
+            </div>
+        </div>
+    </p>
+    <br/>
+    <strong><li>Reason for lack of work early in the sprint:</li></strong>
+    <p>
+        For most of this week, I had not completed anything because all the functionality I had worked on in previous sprints had been carried over automatically when we had forked the games repository which meant things like login, registration and email validation that I had previously worked on was already part of the new project. This meant I was left waiting for Isaac to get his CRUD features finished before I could begin with any of my new features for this sprint.
+    </p>
+
+    <br/>
+    <strong><li>Teams communication:</li></strong>
+    <p>
+        Since we had basically begun the entire project again, it was crucial that once I created the database, that I communicated that with the other members of my team because they would need the database in order to be able to add data. Once I had completed the database, I let my group know via teams that the database had been created, see figure 1 below. 
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 9/Communication - 1.PNG" alt="Teams communication" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 2: Teams communication</h6>
+            </div>
+        </div>
+
+        <br/>
+
+        Once Isaac received my message that the database had been created, he began working on his functionalities which is when he ran into some routing problems, see figure 2 above. This issue was one my team and I experienced a little while back during sprint 2 when the routes were still new. Isaac had gotten this issue because the login route used to login to the site could not be found because in sprint 2, someone in my group had created another login route which overrode the actual login route causing this "Route [login] not defined" error. I conveyed this message to Isaac, see figure 3 below, and mentioned on the group that we needed to meet in person to have a meeting and discuss what was going wrong and why everything was so different compared to where we left off the games site.
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 9/Communication - 2.PNG" alt="Teams communication" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 2: Teams communication</h6>
+            </div>
+        </div>
+    </p>
+</ul>

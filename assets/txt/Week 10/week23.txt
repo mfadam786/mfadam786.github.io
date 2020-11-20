@@ -1,1 +1,66 @@
-Week 10, class
+<h2 class="centered">Class 1:</h2>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I have begun working on the favourites functionality since Isaac was able to complete the car CRUD functionality by the end of last week.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				I plan to have the favourites functionality ready for sign off by the beginning of the next class.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+               Having my code and progress be halted because I am needing to wait on another group member's functionality to be completed before I can start on my own features. That is pretty much the only thing getting in my way, that fact that I had to wait for Isaac's car CRUD features just to begin working on my assigned tasks.
+			</li>
+		</ul>
+	</ul>
+    <br/>
+</p>
+
+<h2 class="centered">Class 2:</h2>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I have gotten the favourites functionality fully operational, now a logged in user is able to like/favourite a car from the cars index page and view all liked/favourited cars in a nicely formatted table.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				Since this is the end of the sprint, I plan to have my features merged into our development branch ready for client approval when we demo our project for the client.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What is getting in your way?</h4></li></strong>
+		<ul>
+			<li>
+				After getting started on my functionality, besides having to wait for other functionality at the start of the sprint, there was nothing else which was getting in my way so I feel as though I have worked well and made the most of my time, given the time I had to get my functionality done was close to 1 week and a sprint runs for a period of 2 weeks. As you can see in the figure below, I had completed my favourites feature within the span of 2 days which I feel is quite a good use of time management, therefore I felt I worked very well in order to get my features completed and ready for approval by the client.
+			</li>
+
+            <br/>
+
+            <div class="border box centered" width="100%">
+                <div class="border box inline pad" width="100%">
+                    <img class="border" src="/assets/images/Week 10/Favourites (time taken).PNG" alt="Commits showing time taken to complete Favourites functionality" height="20%"/>
+                    <br/>
+                    <br/>
+                    <h6>Figure 1: Commits showing time taken to complete Favourites functionality</h6>
+                </div>
+            </div>
+		</ul>
+	</ul>
+    <br/>
+</p>

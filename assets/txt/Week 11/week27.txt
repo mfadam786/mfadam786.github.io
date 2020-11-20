@@ -10,7 +10,7 @@
 
         <div class="border box centered" width="100%">
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 11/View profile.PNG" alt="View profile information" height="20%"/>
+                <img class="border" src="/assets/images/Week 11/View profile.PNG" alt="View profile information" height="20%" width="90%"/>
                 <br/>
                 <br/>
                 <h6>Figure 1: View profile information</h6>
@@ -23,7 +23,7 @@
 
         <div class="border box centered" width="100%">
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 11/Edit profile.PNG" alt="Edit profile information" height="20%"/>
+                <img class="border" src="/assets/images/Week 11/Edit profile.PNG" alt="Edit profile information" height="20%" width="90%"/>
                 <br/>
                 <br/>
                 <h6>Figure 2: Edit profile information</h6>
@@ -32,7 +32,7 @@
 
         <div class="border box centered" width="100%">
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 11/Updated profile.PNG" alt="Edit profile information" height="20%"/>
+                <img class="border" src="/assets/images/Week 11/Updated profile.PNG" alt="Edit profile information" height="20%" width="90%"/>
                 <br/>
                 <br/>
                 <h6>Figure 2: Updated profile information</h6>

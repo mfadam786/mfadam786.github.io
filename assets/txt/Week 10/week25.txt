@@ -75,6 +75,13 @@
             As soon as I was done working on my favourites feature, I had made a pull request in order to get it signed off by the client. This demonstrated principle 1 because as soon as I had gotten my feature working and tested that it worked, I moved towards trying to get it merged into our development branch, “ready for deployment”.
         </p>
 
+		<li>
+            Principle 2 - "Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage":
+        </li>
+        <p>
+            The topic change in this sprint demonstrated the 12th agile principle which was to encourage change late into the development of a project. Seeing as though my team and I had embraced the change rather than complaining about it, I felt as though we did well in demonstrating this principle.
+        </p>
+
         <li>
             Principle 6 - "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation":
         </li>
@@ -97,9 +104,15 @@
         </p>
 
 		<li>
-            Principle 12 - "Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage":
+            Principle 12 - "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly":
         </li>
-        <p>
-            The topic change in this sprint demonstrated the 12th agile principle which was to encourage change late into the development of a project. Seeing as though my team and I had embraced the change rather than complaining about it, I felt as though we did well in demonstrating this principle.
-        </p>
+		<br/>
+        <div class="border box centered" width="100%">
+			<div class="border box inline pad" width="100%">
+				<img class="border" src="/assets/images/Week 10/Retrospective.PNG" alt="Group retrospective" height="20%" width="90%"/>
+				<br/>
+				<br/>
+				<h6>Figure 1: Group retrospective</h6>
+			</div>
+		</div>
     </ul>

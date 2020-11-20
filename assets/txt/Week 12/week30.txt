@@ -6,19 +6,7 @@
 
 	<br/>
 
-	<div class="border box centered" width="100%">
-		<div class="border box inline pad" width="100%">
-			<img class="border" src="/assets/images/Week 10/Favourites (time taken).PNG" alt="Commits showing time to complete favourites functionality" height="20%"/>
-			<br/>
-			<br/>
-			<h6>Figure 1: Commits showing time to complete favourites functionality</h6>
-		</div>
-	</div>
-
-	<br/>
-
 	<strong><li>What could you have done better? </li></strong>
-	<br/>
 	<ul>
 		<li>
 			I could have worked on my time management a little better and not end up having at a point where I was abandoning this project to complete other course work. I feel my time management across previous sprints was much better since I was able to ensure that I was on top of all of the work I had to do for both this course and all other courses. 
@@ -76,4 +64,17 @@
         <p>
             Since working over this sprint, my group and I had mostly been self-organized because we would meet up for our scheduled in person meetings to find out how we’ve been doing over the sprint and once we’d complete that, we would continue just working through our tickets for the sprint.
         </p>
+
+		<li>
+            Principle 12 - "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly":
+        </li>
+		<br/>
+        <div class="border box centered" width="100%">
+			<div class="border box inline pad" width="100%">
+				<img class="border" src="/assets/images/Week 12/Retrospective.PNG" alt="Group retrospective" height="20%" width="90%"/>
+				<br/>
+				<br/>
+				<h6>Figure 1: Group retrospective</h6>
+			</div>
+		</div>
     </ul>

@@ -1,0 +1,17 @@
+<h4 class="centered"><u>Client Meeting</u></h4>
+<br/>
+<p>
+    For this final sprint, we were told by the client that there wouldn't be any new additional features being added and that all we needed to make sure we did was that we get any outstanding features implemented and all bugs fixed.This way when it comes to presenting/showing off the project and finally submitting it, all issues should be resolved and the project should then be fully completed.
+</p>
+
+<br/>
+
+<h4 class="centered"><u>Task Delegation:</u></h4>
+<br/>
+<p>
+    <ul>
+        <li>We decided that since Sophie was handling styling throughout the sprint, it would only be fitting that she go through and fix up any issues with styling across the site.</li>
+        <li>We also decided that all of us would go through the site and if we spot any issues, message our group teams chat so that everyone knows about the issue and the person who the issue pertains to could then try and fix it.</li>
+    </ul>
+</p>
+

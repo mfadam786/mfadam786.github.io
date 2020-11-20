@@ -71,5 +71,18 @@
         <p>
             Since working over this sprint, my group and I had mostly been self-organized because we would meet up for our scheduled in person meetings to find out how we’ve been doing over the sprint and once we’d complete that, we would continue just working through our tickets for the sprint.
         </p>
+
+        <li>
+            Principle 12 - "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly":
+        </li>
+		<br/>
+        <div class="border box centered" width="100%">
+			<div class="border box inline pad" width="100%">
+				<img class="border" src="/assets/images/Week 6/Retrospective.PNG" alt="Group retrospective" height="20%" width="90%"/>
+				<br/>
+				<br/>
+				<h6>Figure 1: Group retrospective</h6>
+			</div>
+		</div>
     </ul>
 </ul>

@@ -74,7 +74,7 @@
 
             <div class="border box centered" width="100%">
                 <div class="border box inline pad" width="100%">
-                    <img class="border" src="/assets/images/Week 8/Retrospective.PNG" alt="Sprint retrospective"/>
+                    <img class="border" src="/assets/images/Week 8/Retrospective.PNG" alt="Sprint retrospective" width="90%"/>
                     <br/>
                     <br/>
                     <h6>Figure 1: Sprint retrospective</h6>

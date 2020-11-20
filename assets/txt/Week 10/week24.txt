@@ -9,13 +9,13 @@
 
         <div class="border box centered" width="100%">
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 10/Cars page.PNG" alt="Cars page with favourites functionality"/>
+                <img class="border" src="/assets/images/Week 10/Cars page.PNG" alt="Cars page with favourites functionality" width="90%"/>
                 <br/>
                 <br/>
                 <h6>Figure 1: Cars page with favourites functionality</h6>
             </div>
             <div class="border box inline pad" width="100%">
-                <img class="border" src="/assets/images/Week 10/Favourites page.PNG" alt="Cars page with favourites functionality"/>
+                <img class="border" src="/assets/images/Week 10/Favourites page.PNG" alt="Cars page with favourites functionality" width="90%"/>
                 <br/>
                 <br/>
                 <h6>Figure 2: Favourites list page with list of cars favourited</h6>

@@ -1,0 +1,141 @@
+<h2 class="centered">Outside of Class:</h2>
+<br/>
+<ul>
+    <p>
+        Since this sprint was more of a sprint to find and fix bugs, there was no real need to have our regular meetings as we were not adding any new features. This plus the fact that Grayson was away meaning that lessons would be self-directed meant that most of my team would not come in to class so we would miss out on our in class meetings during this 2 week period.
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 13/Add cars to dealerships.PNG" alt="Form to add car to a dealership" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 1: Form to add car to a dealership</h6>
+            </div>
+        </div>
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 13/Add a car to a dealership (code).PNG" alt="Code to add car to dealership" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 2: Code to add car to dealership</h6>
+            </div>
+        </div>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 13/Remove a car from a dealership (code).PNG" alt="Coded to remove car from a dealership" height="20%"/>
+                <br/>
+                <br/>
+                <h6>Figure 3: Coded to remove car from a dealership</h6>
+            </div>
+        </div>
+    </p>
+    <br/>
+</ul>
+
+<ul>
+	<strong><li>What did you do well?</li></strong>
+	<p>
+		I felt that we communicated quite well via Teams during this sprint in order to try and fix all of the bugs we were experiencing. I had been going through the deployed site and found a few bugs that needed fixing, and when I came across some issues that needed fixing, I conveyed it to my team so that it could be tended to when one of my team members responsible for resolving the issue became free. See the below screenshots for correspondence about issues.
+	</p>
+
+	<br/>
+
+	<strong><li>What could you have done better? </li></strong>
+	<ul>
+		<li>
+			I think we as a team did quite well communicating issues with each other back and forth via Teams to work and fix all of the bugs within our site. I don't think we could have done anything better because our communication was really good.
+		</li>
+	</ul>
+
+	<br/>
+
+	<strong><li>What lessons did you learn?</li></strong>
+	<p>
+		Team communication when it comes to fixing bugs and issues is important because it allows the workload to be spread out evenly making it easier to accomplish more. By me looking through the site in search of bugs and then conveying it to my team members allowed us to be more productive because as I found bugs, I would let my team know and in most cases it was usually just a styling issue which could be fixed by Sophie. See the screenshots below for the correspondence between my team members and myself the day before the showcase.
+	</p>
+
+	<br/>
+
+	<strong><li>What barriers did you encounter?</li></strong>
+	<ul>
+		<li>
+            I didn't experience any barriers as I was able to work through our site trying to find any bugs and issues we needed to squash.
+		</li>
+		
+		<br/>
+	</ul>
+
+    <div class="border box centered" width="100%">
+		<div class="border box inline pad" width="100%">
+			<img class="border" src="/assets/images/Week 13/Communication to fix bugs - 1.PNG" alt="Communication about button styling issue" height="20%"/>
+			<br/>
+			<br/>
+			<h6>Figure 4: Communication about button styling issue</h6>
+		</div>
+
+        <div class="border box inline pad" width="100%">
+			<img class="border" src="/assets/images/Week 13/Communication to fix bugs - 2.PNG" alt="Communication about border styling issue" height="20%"/>
+			<br/>
+			<br/>
+			<h6>Figure 5: Communication about border styling issue</h6>
+		</div>
+
+        <div class="border box inline pad" width="100%">
+			<img class="border" src="/assets/images/Week 13/Communication to fix bugs - 3.PNG" alt="Communication about search functionality issue" height="20%"/>
+			<br/>
+			<br/>
+			<h6>Figure 6: Communication about search functionality issue</h6>
+		</div>
+
+        <div class="border box inline pad" width="100%">
+			<img class="border" src="/assets/images/Week 13/Communication to fix bugs - 4.PNG" alt="Communication about how to fix search functionality issue" height="20%"/>
+			<br/>
+			<br/>
+			<h6>Figure 7: Communication about how to fix search functionality issue</h6>
+		</div>
+	</div>
+
+	<br/>
+
+	<strong><li>Agile Principles:</li></strong>
+    <ul>
+        <li>
+            Principle 1 - "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software":
+        </li>
+        <p>
+            As soon as we were able to fix the bugs we had found, we would deploy the new updated changes and fixes to heroku enabling the changes to be seen and resolved for users of the software.
+        </p>
+
+        <li>
+            Principle 6 - "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation":
+        </li>
+        <p>
+            As it turns out, communication via face-to-face interactions is effective, but is not the only effective method of communication. I feel that our communication via teams was equally as effective as face-to-faace interactions because we were able to sort out all of our problems we needed to sort out just messaging each other via teams.
+        </p>
+
+        <li>
+            Principle 7 - " Working software is the primary measure of progress":
+        </li>
+        <p>
+            Fixing our issues allowed us to make progress in order to get features that broke during deployment working again.
+        </p>
+
+        <li>
+            Principle 12 - "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly":
+        </li>
+		<br/>
+        <div class="border box centered" width="100%">
+			<div class="border box inline pad" width="100%">
+				<img class="border" src="/assets/images/Week 13/Retrospective.PNG" alt="Group retrospective" height="20%" width="90%"/>
+				<br/>
+				<br/>
+				<h6>Figure 1: Group retrospective</h6>
+			</div>
+		</div>
+    </ul>

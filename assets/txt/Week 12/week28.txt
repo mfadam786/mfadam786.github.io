@@ -1,0 +1,48 @@
+<h2 class="centered">Class 1:</h2>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I had not completed anything towards this project since last week because I have been working to get a 50% assignment for another course completed.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				I plan to atleast have something worked on towards the username issue I had found previously.
+			</li>
+		</ul>
+	</ul>
+    <br/>
+</p>
+
+<h2 class="centered">Class 2:</h2>
+<br/>
+<p>
+	<ul>
+		<strong><li><h4>What have you completed since the last meeting?</h4></li></strong>
+		<ul>
+			<li>
+				I had fixed the username bug where users could edit their username to be the same as an existing user's username.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>What do you plan to complete by the next class?</h4></li></strong>
+		<ul>
+			<li>
+				I plan to get my features merged and check if any of my group members needed any assistance working on or fixing any functionalities they have been assigned.
+			</li>
+		</ul>
+		<br/>
+		<strong><li><h4>Over the past 2 weeks, what has been getting in my way?</h4></li></strong>
+		<ul>
+			<li>
+				I have a 50% assignment for another course which is close to being due, so I have noticed that I have been putting in less time to work on this project and more time towards that. I have also noticed my time management is starting to slack a little due to focussing mainly on this massive 50% assignment, but regardless of this, I was still capable of getting my tasks for this sprint done in time. 
+			</li>
+		</ul>
+	</ul>
+    <br/>
+</p>

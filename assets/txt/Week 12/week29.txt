@@ -1,0 +1,25 @@
+<h2 class="centered">Outside of Class:</h2>
+<br/>
+<ul>
+    <strong><li>Fixed username stealing bug:</li></strong>
+    <p>
+        Since Laravel does not have a built-in way of ensuring that fields remain unique, I saw myself needing to create a method which would first check if the username a user is deciding to change their's to is already in use before just allowing the change of username to occur. I first query the database using the new username to check if it belongs to any registered users. If the query returns a result, I then check to make sure that the user returned within the query does not match the logged in user, who happens to also be the person updating their username. I if does, the user is just returned to the view profile page, otherwise if the username is taken and does not belong to the logged in user, they are redirected to the edit profile page with errors telling the user the username has already been taken, see figure 2 below.
+
+        <br/>
+
+        <div class="border box centered" width="100%">
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 10/Cars page.PNG" alt="Code to check if username is already taken"/>
+                <br/>
+                <br/>
+                <h6>Figure 1: Code to check if username is already taken</h6>
+            </div>
+            <div class="border box inline pad" width="100%">
+                <img class="border" src="/assets/images/Week 10/Favourites page.PNG" alt="Cars page with favourites functionality"/>
+                <br/>
+                <br/>
+                <h6>Figure 2: Favourites list page with list of cars favourited</h6>
+            </div>
+        </div>
+    </p>
+</ul>
